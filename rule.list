@@ -3,3 +3,8 @@ host, gateway.icloud.com, direct
 host-suffix, baidu.com, direct
 host-suffix, wjx.cn, direct
 host-suffix, meituan.com, direct
+host-suffix, live.com, direct
+host-suffix, microsoftonline.cn, direct
+host-suffix, microsoft.com, direct
+host-suffix, office.com, direct
+host-suffix, sharepoint.com, direct
