@@ -6,3 +6,4 @@ host, wspri.okx.com.cdn.cloudflare.net, direct
 host, ocsp.digicert.com, direct
 host, sex-positions.online, direct
 host, gateway.icloud.com, direct
+host-suffix, 10086.cn, direct
