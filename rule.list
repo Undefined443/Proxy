@@ -9,3 +9,4 @@ host, gateway.icloud.com, direct
 host-suffix, 10086.cn, direct
 host, itunes.apple.com, direct
 host-suffix, 1password.com, direct
+host-suffix, linkedin.com, direct
