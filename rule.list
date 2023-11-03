@@ -21,5 +21,5 @@ host, api.onesignal.com, direct
 host, rmtp-d.sg-light-edge.cdi, direct
 host, cloudflare-dns.com, direct
 
-host, github.com, GitHub
-host, raw.githubusercontent.com, GitHub
+host-suffix, github.com, GitHub
+host-suffix, raw.githubusercontent.com, GitHub
