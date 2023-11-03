@@ -12,6 +12,8 @@ host, ch.sleepcycle.com, direct
 host, workingcopy.app, direct
 host-suffix, mapbox.com, direct
 
+host-suffix, jable.tv, proxy
+
 host, www.okx.com.cdn.cloudflare.net, direct
 host, d1nil3qbkxfj92.cloudfront.net, direct
 host, okxweb.pxbmtag.cn, direct
