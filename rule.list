@@ -20,3 +20,5 @@ host, www.okx-dns2.com, direct
 host, api.onesignal.com, direct
 host, rmtp-d.sg-light-edge.cdi, direct
 host, cloudflare-dns.com, direct
+
+host, github.com:22, GitHub
