@@ -22,3 +22,4 @@ host, rmtp-d.sg-light-edge.cdi, direct
 host, cloudflare-dns.com, direct
 
 host, github.com, GitHub
+host, raw.githubusercontent.com, GitHub
