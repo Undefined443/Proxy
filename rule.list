@@ -9,6 +9,7 @@ host-suffix, 10086.cn, direct  # 10086
 host, itunes.apple.com, direct  # Apple
 host-suffix, 1password.com, direct  # 1Password
 host-suffix, linkedin.com, direct  # 领英
+host, ch.sleepcycle.com, direct  # Sleep Cycle
 
 # 欧易
 host, www.okx.com.cdn.cloudflare.net, direct
@@ -18,4 +19,4 @@ host, wspri.okx.com.cdn.cloudflare.net, direct
 host, www.okx-dns2.com, direct
 host, api.onesignal.com, direct
 host, rmtp-d.sg-light-edge.cdi, direct
-host, cloudflare-dns.com, direct  
+host, cloudflare-dns.com, direct
