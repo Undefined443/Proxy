@@ -10,6 +10,7 @@ host-suffix, 1password.com, direct
 host-suffix, linkedin.com, direct
 host, ch.sleepcycle.com, direct
 host, workingcopy.app, direct
+host-suffix, mapbox.com, direct
 
 host, www.okx.com.cdn.cloudflare.net, direct
 host, d1nil3qbkxfj92.cloudfront.net, direct
