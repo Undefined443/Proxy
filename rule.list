@@ -6,7 +6,6 @@ host, ocsp.digicert.com, direct
 host, sex-positions.online, direct
 host, gateway.icloud.com, direct
 host-suffix, 10086.cn, direct
-host, itunes.apple.com, direct
 host-suffix, 1password.com, direct
 host-suffix, linkedin.com, direct
 host, ch.sleepcycle.com, direct
@@ -23,3 +22,6 @@ host, cloudflare-dns.com, direct
 
 host-suffix, github.com, GitHub
 host-suffix, raw.githubusercontent.com, GitHub
+
+host, itunes.apple.com, direct
+host, netcts.cdn-apple.com, proxy
