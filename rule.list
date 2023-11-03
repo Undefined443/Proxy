@@ -13,7 +13,7 @@ host, workingcopy.app, direct
 host-suffix, mapbox.com, direct
 
 host-suffix, jable.tv, proxy
-host-suffix, googleadservices.com, proxy
+host, www.googleadservices.com, proxy
 
 host, www.okx.com.cdn.cloudflare.net, direct
 host, d1nil3qbkxfj92.cloudfront.net, direct
