@@ -24,7 +24,6 @@ host, rmtp-d.sg-light-edge.cdi, direct
 host, cloudflare-dns.com, direct
 
 host-suffix, github.com, GitHub
-host-suffix, raw.githubusercontent.com, GitHub
 
 host, itunes.apple.com, direct
 host, netcts.cdn-apple.com, proxy
