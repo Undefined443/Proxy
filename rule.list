@@ -1,17 +1,17 @@
 host-suffix, chaoxing.com, direct
 host-suffix, baidu.com, direct
-host-suffix, wjx.cn, direct  # 问卷星
+host-suffix, wjx.cn, direct
 host-suffix, meituan.com, direct
 host, ocsp.digicert.com, direct
 host, sex-positions.online, direct
-host, gateway.icloud.com, direct  # iCloud
-host-suffix, 10086.cn, direct  # 10086
-host, itunes.apple.com, direct  # Apple
-host-suffix, 1password.com, direct  # 1Password
-host-suffix, linkedin.com, direct  # 领英
-host, ch.sleepcycle.com, direct  # Sleep Cycle
+host, gateway.icloud.com, direct
+host-suffix, 10086.cn, direct
+host, itunes.apple.com, direct
+host-suffix, 1password.com, direct
+host-suffix, linkedin.com, direct
+host, ch.sleepcycle.com, direct
+host, workingcopy.app, direct
 
-# 欧易
 host, www.okx.com.cdn.cloudflare.net, direct
 host, d1nil3qbkxfj92.cloudfront.net, direct
 host, okxweb.pxbmtag.cn, direct
