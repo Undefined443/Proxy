@@ -62,3 +62,5 @@ host, gateway.icloud.com, direct
 host, cable.auth.com, direct
 
 host, github.com, GitHub
+
+host-suffix, steampowered.com, Steam
