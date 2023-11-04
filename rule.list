@@ -29,6 +29,7 @@ host-suffix, chinadigitaltimes.net, direct
 
 host-suffix, jable.tv, proxy
 host, www.googleadservices.com, proxy
+host, www.gstatic.com, proxy
 
 host, www.okx.com.cdn.cloudflare.net, direct
 host, d1nil3qbkxfj92.cloudfront.net, direct
