@@ -58,5 +58,6 @@ host, books.itunes.apple.com, 苹果服务
 host, radio.itunes.apple.com, 苹果服务
 host, netcts.cdn-apple.com, proxy
 host, gateway.icloud.com, direct
+host, cable.auth.com, direct
 
 host, github.com, GitHub
