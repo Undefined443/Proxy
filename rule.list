@@ -25,11 +25,11 @@ host-suffix, cdn.jsdelivr.net, direct
 host-suffix, firefox.com, direct
 host-suffix, firefoxusercontent.com, direct
 host-suffix, mozilla.org, direct
-host-suffix, chinadigitaltimes.net, direct
 
 host-suffix, jable.tv, proxy
 host, www.googleadservices.com, proxy
 host, www.gstatic.com, proxy
+host-suffix, chinadigitaltimes.net, proxy
 
 host, www.okx.com.cdn.cloudflare.net, direct
 host, d1nil3qbkxfj92.cloudfront.net, direct
