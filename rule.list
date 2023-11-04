@@ -19,9 +19,6 @@ host-suffix, cn.bing.com, direct
 host-suffix, qq.com, direct
 host-suffix, cn.vuejs.com, direct
 host-suffix, edu.cn, direct
-host-suffix, aliyun.com, direct
-host-suffix, aliyuncs.com, direct
-host-suffix, alipayobjects.com, direct
 host-suffix, cdn.jsdelivr.net, direct
 host-suffix, firefox.com, direct
 host-suffix, firefoxusercontent.com, direct
@@ -42,7 +39,14 @@ host, api.onesignal.com, direct
 host, rmtp-d.sg-light-edge.cdi, direct
 host, cloudflare-dns.com, direct
 
-host, github.com, GitHub
+host-suffix, aliyun.com, direct
+host-suffix, aliyuncs.com, direct
+host-suffix, alipayobjects.com, direct
+host-suffix, alibaba.com, direct
+host-suffix, alicdn.com, direct
+host-suffix, alipay.com
 
-host, itunes.apple.com, direct
+host-suffix, itunes.apple.com, direct
 host, netcts.cdn-apple.com, proxy
+
+host, github.com, GitHub
