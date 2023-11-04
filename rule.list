@@ -10,8 +10,8 @@ host, sex-positions.online, direct
 host-suffix, 10086.cn, direct
 host-suffix, 1password.com, direct
 host-suffix, linkedin.com, direct
-host, ch.sleepcycle.com, direct
-host, workingcopy.app, direct
+host-suffix, ch.sleepcycle.com, direct
+host-suffix, workingcopy.app, direct
 host-suffix, mapbox.com, direct
 host-suffix, feibing.tech, direct
 host-suffix, cn.bing.com, direct
