@@ -46,7 +46,17 @@ host-suffix, alibaba.com, direct
 host-suffix, alicdn.com, direct
 host-suffix, alipay.com
 
-host-suffix, itunes.apple.com, direct
+host, tv.apple.com, 苹果服务
+host, app.apple.com, 苹果服务
+host, books.apple.com, 苹果服务
+host, testflight.apple.com, 苹果服务
+host, lookup-api.apple.com, 苹果服务
+host-suffix, smoot.apple.com, 苹果服务
+host, amp-api.podcasts.apple.com, 苹果服务
+host, beta.music.apple.com, 苹果服务
+host, itunes.apple.com, 苹果服务
+host, books.itunes.apple.com, 苹果服务
+host, radio.itunes.apple.com, 苹果服务
 host, netcts.cdn-apple.com, proxy
 
 host, github.com, GitHub
