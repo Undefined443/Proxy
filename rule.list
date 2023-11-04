@@ -7,7 +7,6 @@ host-suffix, ele.me, direct
 host-suffix, elemecdn.com, direct
 host, ocsp.digicert.com, direct
 host, sex-positions.online, direct
-host, gateway.icloud.com, direct
 host-suffix, 10086.cn, direct
 host-suffix, 1password.com, direct
 host-suffix, linkedin.com, direct
@@ -58,5 +57,6 @@ host, itunes.apple.com, 苹果服务
 host, books.itunes.apple.com, 苹果服务
 host, radio.itunes.apple.com, 苹果服务
 host, netcts.cdn-apple.com, proxy
+host, gateway.icloud.com, direct
 
 host, github.com, GitHub
