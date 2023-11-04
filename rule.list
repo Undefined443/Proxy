@@ -43,7 +43,7 @@ host-suffix, aliyuncs.com, direct
 host-suffix, alipayobjects.com, direct
 host-suffix, alibaba.com, direct
 host-suffix, alicdn.com, direct
-host-suffix, alipay.com
+host-suffix, alipay.com, direct
 
 host, tv.apple.com, 苹果服务
 host, app.apple.com, 苹果服务
