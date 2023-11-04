@@ -22,6 +22,9 @@ host-suffix, edu.cn, direct
 host-suffix, aliyuncs.com, direct
 host-suffix, alipayobjects.com, direct
 host-suffix, cdn.jsdelivr.net, direct
+host-suffix, firefox.com, direct
+host-suffix, firefoxusercontent.com, direct
+host-suffix, mozilla.org, direct
 
 host-suffix, jable.tv, proxy
 host, www.googleadservices.com, proxy
