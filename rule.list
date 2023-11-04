@@ -1,7 +1,10 @@
 host-suffix, chaoxing.com, direct
 host-suffix, baidu.com, direct
+host-suffix, zhihu.com, direct
 host-suffix, wjx.cn, direct
 host-suffix, meituan.com, direct
+host-suffix, ele.me, direct
+host-suffix, elemecdn.com, direct
 host, ocsp.digicert.com, direct
 host, sex-positions.online, direct
 host, gateway.icloud.com, direct
