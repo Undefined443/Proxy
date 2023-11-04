@@ -23,6 +23,7 @@ host-suffix, firefox.com, direct
 host-suffix, firefoxusercontent.com, direct
 host-suffix, mozilla.org, direct
 host-suffix, cubox.pro, direct
+host-suffix, termius.com, direct
 
 host-suffix, jable.tv, proxy
 host, www.googleadservices.com, proxy
