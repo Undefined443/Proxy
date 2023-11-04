@@ -11,6 +11,13 @@ host-suffix, linkedin.com, direct
 host, ch.sleepcycle.com, direct
 host, workingcopy.app, direct
 host-suffix, mapbox.com, direct
+host-suffix, feibing.tech, direct
+host-suffix, cn.bing.com, direct
+host-suffix, qq.com, direct
+host-suffix, cn.vuejs.com, direct
+host-suffix, edu.cn, direct
+host-suffix, aliyuncs.com, direct
+host-suffix, alipayobjects.com, direct
 
 host-suffix, jable.tv, proxy
 host, www.googleadservices.com, proxy
