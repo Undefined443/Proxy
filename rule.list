@@ -18,6 +18,7 @@ host-suffix, cn.vuejs.com, direct
 host-suffix, edu.cn, direct
 host-suffix, aliyuncs.com, direct
 host-suffix, alipayobjects.com, direct
+host-suffix, cdn.jsdelivr.net, direct
 
 host-suffix, jable.tv, proxy
 host, www.googleadservices.com, proxy
