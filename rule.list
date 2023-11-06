@@ -27,8 +27,10 @@ host-suffix, termius.com, direct
 
 host-suffix, jable.tv, proxy
 host, www.googleadservices.com, proxy
-host, www.gstatic.com, proxy
+host-suffix, gstatic.com, proxy
 host-suffix, chinadigitaltimes.net, proxy
+
+host-suffix, stripchat.com, reject
 
 host, www.okx.com.cdn.cloudflare.net, direct
 host, d1nil3qbkxfj92.cloudfront.net, direct
