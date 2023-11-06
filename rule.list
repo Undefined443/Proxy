@@ -34,6 +34,7 @@ host-suffix, stripchat.com, reject
 host-suffix, mnaspm.com, reject
 host-suffix, stripcdn.com, reject
 host-suffix, xlivrdr.com, reject
+host-suffix, uug27.com, reject
 
 host, www.okx.com.cdn.cloudflare.net, direct
 host, d1nil3qbkxfj92.cloudfront.net, direct
