@@ -31,6 +31,7 @@ host-suffix, gstatic.com, proxy
 host-suffix, chinadigitaltimes.net, proxy
 
 host-suffix, stripchat.com, reject
+host-suffix, mnaspm.com, reject
 
 host, www.okx.com.cdn.cloudflare.net, direct
 host, d1nil3qbkxfj92.cloudfront.net, direct
