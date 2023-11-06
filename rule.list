@@ -38,6 +38,7 @@ host-suffix, xlivrdr.com, reject
 host-suffix, uug27.com, reject
 host-suffix, magsrv.com, reject
 host-suffix, uus52.com, reject
+host-suffix, trackwilltrk.com, reject
 
 host, www.okx.com.cdn.cloudflare.net, direct
 host, d1nil3qbkxfj92.cloudfront.net, direct
