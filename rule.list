@@ -28,11 +28,13 @@ host-suffix, maxmind.com, direct
 host, click.mz.simba.taobao.com, direct
 host-suffix, douyin.com, direct
 host-suffix, craft.do, direct
+host-suffix, sentry.io, direct
 
 host-suffix, jable.tv, proxy
 host, www.googleadservices.com, proxy
 host-suffix, gstatic.com, proxy
 host-suffix, chinadigitaltimes.net, proxy
+host-suffix, sciencedirect.com, proxy
 
 host-suffix, stripchat.com, reject
 host-suffix, mnaspm.com, reject
