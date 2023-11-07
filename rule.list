@@ -27,6 +27,7 @@ host-suffix, termius.com, direct
 host-suffix, maxmind.com, direct
 host, click.mz.simba.taobao.com, direct
 host-suffix, douyin.com, direct
+host-suffix, craft.do, direct
 
 host-suffix, jable.tv, proxy
 host, www.googleadservices.com, proxy
