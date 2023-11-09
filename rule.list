@@ -29,6 +29,7 @@ host, click.mz.simba.taobao.com, direct
 host-suffix, douyin.com, direct
 host-suffix, craft.do, direct
 host-suffix, sentry.io, direct
+host-suffix, quantumult.app, direct
 
 host-suffix, jable.tv, proxy
 host, www.googleadservices.com, proxy
