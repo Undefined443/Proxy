@@ -31,6 +31,7 @@ host-suffix, craft.do, direct
 host-suffix, sentry.io, direct
 host-suffix, quantumult.app, direct
 host-suffix, metademolab.com, direct
+host-suffix, xiaolian.com, direct
 
 host-suffix, jable.tv, proxy
 host, www.googleadservices.com, proxy
