@@ -34,6 +34,7 @@ host-suffix, metademolab.com, direct
 host-suffix, xiaolian.com, direct
 host-suffix, logitech.io, direct
 host-suffix, microsoft.com, direct
+host-suffix, cloudflare.com, direct
 
 host-suffix, jable.tv, proxy
 host, www.googleadservices.com, proxy
