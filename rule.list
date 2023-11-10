@@ -39,6 +39,9 @@ host-suffix, visualstudio.com, direct
 host-suffix, microsoftonline.com, direct
 host, vscode-sync.trafficmanager.net, direct
 host-suffix, cn, direct
+host-suffix, msauth.net, direct
+host-suffix, live.com, direct
+host-suffix, gfx.ms, direct
 
 host-suffix, jable.tv, proxy
 host, www.googleadservices.com, proxy
