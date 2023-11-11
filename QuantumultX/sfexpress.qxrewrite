@@ -1,0 +1,9 @@
+# 顺丰速运签到
+# 请在 Quantumult X 中手动添加任务：
+# 0 12 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/sfexpress/sfexpress.js, tag=顺丰速运签到, enabled=true
+#
+# 说明：https://github.com/chavyleung/scripts/tree/master/sfexpress
+
+^https:\/\/ccsp-egmas.sf-express.com\/cx-app-member\/member\/app\/user\/universalSign url script-request-body https://raw.githubusercontent.com/chavyleung/scripts/master/sfexpress/sfexpress.cookie.js
+
+hostname = ccsp-egmas.sf-express.com
