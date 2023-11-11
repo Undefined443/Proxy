@@ -4,6 +4,6 @@
 #
 # 说明：https://github.com/chavyleung/scripts/tree/master/smzdm
 
-^https:\/\/www\.smzdm\.com\/?.? url script-request-body https://raw.githubusercontent.com/chavyleung/scripts/master/smzdm/smzdm.cookie.js
+^https:\/\/www\.smzdm\.com\/?.? url script-request-header https://raw.githubusercontent.com/chavyleung/scripts/master/smzdm/smzdm.cookie.js
 
 hostname = *.smzdm.com
