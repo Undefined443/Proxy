@@ -1,6 +1,8 @@
 # bilibili 获取 Cookie
 # 请在 Quantumult X 中手动添加任务：
 # 0 12 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/bilibili/bilibili.js
+#
+# 说明：https://github.com/chavyleung/scripts/tree/master/bilibili
 
 ^https:\/\/(www|live)\.bilibili\.com\/?.? url script-request-header https://raw.githubusercontent.com/chavyleung/scripts/master/bilibili/bilibili.cookie.js
 
