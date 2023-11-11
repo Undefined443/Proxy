@@ -1,0 +1,9 @@
+# 去哪儿网签到
+# 请在 Quantumult X 中手动添加任务：
+# 0 12 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/qunar/qunar.js, tag=去哪儿网签到, enabled=true
+#
+# 说明：https://github.com/chavyleung/scripts/tree/master/qunar
+
+^https:\/\/user.qunar.com\/webapi\/member\/signIndexV2.htm url script-request-header https://raw.githubusercontent.com/chavyleung/scripts/master/qunar/qunar.cookie.js
+
+hostname = user.qunar.com
