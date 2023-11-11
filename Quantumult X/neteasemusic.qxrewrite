@@ -1,6 +1,6 @@
 # 网易云音乐签到
 # 请在 Quantumult X 中手动添加任务：
-# 0 12 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/neteasemusic/neteasemusic.js
+# 0 12 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/neteasemusic/quanx/neteasemusic.js, tag=网易云音乐签到, enabled=true
 #
 # 说明：https://github.com/chavyleung/scripts/tree/master/neteasemusic
 
