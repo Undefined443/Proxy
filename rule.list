@@ -36,6 +36,8 @@ host-suffix, logitech.io, direct
 host-suffix, cloudflare.com, direct
 host-suffix, cn, direct
 host-suffix, xiaohongshu.com, direct
+host-suffix, qunarcdn.com, direct
+host-suffix, qunar.com, direct
 
 host-suffix, microsoft.com, direct
 host-suffix, microsoftonline.com, direct
