@@ -1,0 +1,9 @@
+# 什么值得买签到
+# 请在 Quantumult X 中手动添加任务：
+# 0 12 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/smzdm/smzdm.js, tag=什么值得买签到, enabled=true
+#
+# 说明：https://github.com/chavyleung/scripts/tree/master/smzdm
+
+^https:\/\/www\.smzdm\.com\/?.? url script-request-header https://raw.githubusercontent.com/chavyleung/scripts/master/smzdm/smzdm.cookie.js
+
+hostname = *.smzdm.com
