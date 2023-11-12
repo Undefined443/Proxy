@@ -1,8 +1,10 @@
 # 什么值得买签到
+# 此规则用于获取 Cookie，请在获取成功后禁用此规则
 # 请在 Quantumult X 中手动添加任务：
 # 0 12 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/smzdm/smzdm.js, tag=什么值得买签到, enabled=true
 #
 # 说明：https://github.com/chavyleung/scripts/tree/master/smzdm
+#! 此规则目前存在 bug
 
 ^https:\/\/www\.smzdm\.com\/?.? url script-request-header https://raw.githubusercontent.com/Undefined443/scripts/master/smzdm/smzdm.cookie.js
 
