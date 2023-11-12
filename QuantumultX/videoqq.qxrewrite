@@ -1,0 +1,10 @@
+# QQ视频签到
+# 此规则用于获取 Cookie，请在获取成功后禁用此规则
+# 请在 Quantumult X 中手动添加任务：
+# 0 12 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/videoqq/videoqq.js, tag=QQ视频签到, enabled=true
+#
+# 说明：https://github.com/chavyleung/scripts/tree/master/videoqq
+
+^https:\/\/access.video.qq.com\/user\/auth_refresh url script-request-header https://raw.githubusercontent.com/chavyleung/scripts/master/videoqq/videoqq.cookie.js
+
+hostname = *.video.qq.com
