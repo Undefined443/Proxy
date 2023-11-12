@@ -37,6 +37,7 @@ host-suffix, cloudflare.com, direct
 host-suffix, cn, direct
 host-suffix, xiaohongshu.com, direct
 host-suffix, smzdm.com, direct
+host-suffix, wx.tenpay.com, direct
 
 host-suffix, qunarcdn.com, direct
 host-suffix, qunar.com, direct
