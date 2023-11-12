@@ -41,6 +41,10 @@ host-suffix, smzdm.com, direct
 host-suffix, qunarcdn.com, direct
 host-suffix, qunar.com, direct
 
+host-suffix, centurygame.com, direct
+host-suffix, funplus.net, direct
+host-suffix, unity3d.com, direct
+
 host-suffix, microsoft.com, direct
 host-suffix, microsoftonline.com, direct
 host-suffix, visualstudio.com, direct
@@ -81,6 +85,7 @@ host-suffix, alipayobjects.com, direct
 host-suffix, alibaba.com, direct
 host-suffix, alicdn.com, direct
 host-suffix, alipay.com, direct
+host-suffix, aliapp.org, direct
 
 host, tv.apple.com, 苹果服务
 host, app.apple.com, 苹果服务
