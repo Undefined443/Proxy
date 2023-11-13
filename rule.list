@@ -26,7 +26,6 @@ host-suffix, cubox.pro, direct
 host-suffix, termius.com, direct
 host-suffix, maxmind.com, direct
 host, click.mz.simba.taobao.com, direct
-host-suffix, douyin.com, direct
 host-suffix, craft.do, direct
 host-suffix, sentry.io, direct
 host-suffix, quantumult.app, direct
@@ -40,6 +39,11 @@ host-suffix, smzdm.com, direct
 host-suffix, wx.tenpay.com, direct
 host-suffix, autonavi.com, direct
 host-suffix, ndmdhs.com, direct
+host-suffix, fcbox.com, direct
+
+host-suffix, douyin.com, direct
+host-suffix, zijieapi.com, direct
+host-suffix, amemv.com
 
 host-suffix, qunarcdn.com, direct
 host-suffix, qunar.com, direct
