@@ -95,6 +95,11 @@ host, cloudflare-dns.com, direct
 host-suffix, bnbstatic.com, direct
 host-suffix, binance.com, direct
 
+host-suffix, htx.com, direct
+host-suffix, htx.com.fj, direct
+host-suffix, hbfile.net, direct
+host-suffix, huobi.com, direct
+
 host-suffix, aliyun.com, direct
 host-suffix, aliyuncs.com, direct
 host-suffix, alipayobjects.com, direct
