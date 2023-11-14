@@ -15,7 +15,6 @@ host-suffix, workingcopy.app, direct
 host-suffix, mapbox.com, direct
 host-suffix, feibing.tech, direct
 host-suffix, cn.bing.com, direct
-host-suffix, qq.com, direct
 host-suffix, cn.vuejs.com, direct
 host-suffix, edu.cn, direct
 host-suffix, cdn.jsdelivr.net, direct
@@ -26,7 +25,6 @@ host-suffix, cubox.pro, direct
 host-suffix, termius.com, direct
 host-suffix, maxmind.com, direct
 host, click.mz.simba.taobao.com, direct
-host-suffix, douyin.com, direct
 host-suffix, craft.do, direct
 host-suffix, sentry.io, direct
 host-suffix, quantumult.app, direct
@@ -37,9 +35,20 @@ host-suffix, cloudflare.com, direct
 host-suffix, cn, direct
 host-suffix, xiaohongshu.com, direct
 host-suffix, smzdm.com, direct
-host-suffix, wx.tenpay.com, direct
 host-suffix, autonavi.com, direct
-host-suffix, htx.com, direct
+host-suffix, ndmdhs.com, direct
+host-suffix, fcbox.com, direct
+
+host-suffix, pockyt.io, direct
+host-suffix, yuansfer.com, direct
+
+host-suffix, qq.com, direct
+host-suffix, wx.tenpay.com, direct
+host-suffix, tencent.com, direct
+
+host-suffix, douyin.com, direct
+host-suffix, zijieapi.com, direct
+host-suffix, amemv.com
 
 host-suffix, qunarcdn.com, direct
 host-suffix, qunar.com, direct
@@ -63,6 +72,7 @@ host, www.googleadservices.com, proxy
 host-suffix, gstatic.com, proxy
 host-suffix, chinadigitaltimes.net, proxy
 host-suffix, sciencedirect.com, proxy
+host-suffix, heygen.com, proxy
 
 host-suffix, stripchat.com, reject
 host-suffix, mnaspm.com, reject
@@ -81,6 +91,9 @@ host, www.okx-dns2.com, direct
 host, api.onesignal.com, direct
 host, rmtp-d.sg-light-edge.cdi, direct
 host, cloudflare-dns.com, direct
+
+host-suffix, bnbstatic.com, direct
+host-suffix, binance.com, direct
 
 host-suffix, aliyun.com, direct
 host-suffix, aliyuncs.com, direct

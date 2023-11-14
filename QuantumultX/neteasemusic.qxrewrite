@@ -1,4 +1,5 @@
 # 网易云音乐签到
+# 此规则用于获取 Cookie，请在获取成功后禁用此规则
 # 请在 Quantumult X 中手动添加任务：
 # 0 12 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/neteasemusic/quanx/neteasemusic.js, tag=网易云音乐签到, enabled=true
 #
