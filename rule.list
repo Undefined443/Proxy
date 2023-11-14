@@ -15,7 +15,6 @@ host-suffix, workingcopy.app, direct
 host-suffix, mapbox.com, direct
 host-suffix, feibing.tech, direct
 host-suffix, cn.bing.com, direct
-host-suffix, qq.com, direct
 host-suffix, cn.vuejs.com, direct
 host-suffix, edu.cn, direct
 host-suffix, cdn.jsdelivr.net, direct
@@ -36,10 +35,13 @@ host-suffix, cloudflare.com, direct
 host-suffix, cn, direct
 host-suffix, xiaohongshu.com, direct
 host-suffix, smzdm.com, direct
-host-suffix, wx.tenpay.com, direct
 host-suffix, autonavi.com, direct
 host-suffix, ndmdhs.com, direct
 host-suffix, fcbox.com, direct
+
+host-suffix, qq.com, direct
+host-suffix, wx.tenpay.com, direct
+host-suffix, tencent.com, direct
 
 host-suffix, douyin.com, direct
 host-suffix, zijieapi.com, direct
