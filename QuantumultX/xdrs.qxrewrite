@@ -1,0 +1,8 @@
+# 西电睿思签到
+# 此规则用于获取 Cookie，请在获取成功后禁用此规则
+# 请在 Quantumult X 中手动添加任务：
+# 0 12 * * * https://raw.githubusercontent.com/Undefined443/Proxy/dev/QuantumultX/xdrs.js, tag=西电睿思签到, enabled=true
+
+^https?:\/\/rs.xidian.edu.cn\/home\.php.* url script-request-header https://raw.githubusercontent.com/Undefined443/Proxy/dev/QuantumultX/xdrs_cookie.js
+
+hostname = rs.xidian.edu.cn
