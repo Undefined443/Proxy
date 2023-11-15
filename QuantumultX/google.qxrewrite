@@ -1,4 +1,3 @@
-[rewrite_local]
 ^https?://(www\.)?g\.cn url 302 https://www.google.com
 ^https?://(www\.)?google\.cn url 302 https://www.google.com
 ^https?://(www\.)?google\.cn/search url 302 https://www.google.com/search
@@ -6,5 +5,4 @@
 ^https?://(www\.)?google\.com\.hk url 302 https://www.google.com
 ^https?://(www\.)?google\.com\.hk/search url 302 https://www.google.com/search
 
-[mitm]
 hostname = www.google.cn, www.g.cn
