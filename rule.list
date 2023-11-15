@@ -76,6 +76,7 @@ host-suffix, gstatic.com, proxy
 host-suffix, chinadigitaltimes.net, proxy
 host-suffix, sciencedirect.com, proxy
 host-suffix, heygen.com, proxy
+host, cdn.jsdelivr.net, proxy
 
 host-suffix, stripchat.com, reject
 host-suffix, mnaspm.com, reject
