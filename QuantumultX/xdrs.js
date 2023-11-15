@@ -11,13 +11,12 @@ function sign() {
     }
   }
   $task.fetch(url).then(response => {
-    if(true) {
-      let title = `${cookieName}`
-      let subTitle = `签到结果: 签到跳过`
-      let detail = `今天已经签过了`
-      console.log(`${title}, ${subTitle}, ${detail}`)
-      $notify(title, subTitle, detail)
-      $done()
-    }
-  }
-});
+    let data = response.body
+    let title = `${cookieName}`
+    let subTitle = `签到结果: 测试`
+    let detail = `请看日志`
+    console.log(`${title}, ${subTitle}, 响应体：\n${data}`)
+    $notify(title, subTitle, detail)
+    $done()
+  });
+}
