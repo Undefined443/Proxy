@@ -38,6 +38,10 @@ host-suffix, smzdm.com, direct
 host-suffix, autonavi.com, direct
 host-suffix, ndmdhs.com, direct
 host-suffix, fcbox.com, direct
+host-suffix, xycdn.com, direct
+
+host-suffix, music.163.com, direct
+host-suffix, music.126.net, direct
 host-suffix, netease.im, direct
 
 host-suffix, pockyt.io, direct
