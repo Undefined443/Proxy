@@ -1,0 +1,6 @@
+^https?:\/\/(www\.)?(g|google)\.cn url 302 https://www.google.com
+^https?:\/\/(www\.)?google\.com\.hk url 302 https://www.google.com
+
+^https?:\/\/zh\.m\.wikipedia\.org\/zh-hans url 302 https://zh.m.wikipedia.org/zh-cn
+
+hostname = www.google.cn, www.g.cn, www.google.com.hk

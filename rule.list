@@ -51,7 +51,7 @@ host-suffix, tencent.com, direct
 
 host-suffix, douyin.com, direct
 host-suffix, zijieapi.com, direct
-host-suffix, amemv.com
+host-suffix, amemv.com, direct
 
 host-suffix, qunarcdn.com, direct
 host-suffix, qunar.com, direct
