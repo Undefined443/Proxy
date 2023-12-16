@@ -272,37 +272,37 @@ ip-cidr, 223.88.132.217/32, direct
 ip-cidr, 223.167.74.77/32, direct
 
 # Proxy
-host-suffix, jable.tv, proxy
-host, www.googleadservices.com, proxy
-host-suffix, gstatic.com, proxy
-host-suffix, chinadigitaltimes.net, proxy
-host-suffix, sciencedirect.com, proxy
-host-suffix, heygen.com, proxy
-host, cdn.jsdelivr.net, proxy
-host-suffix, rockstargames.com, proxy
-host-suffix, spotify.com, proxy
-host-suffix, spotifycdn.com, proxy
-host-suffix, inoreader.com, proxy
-host-suffix, sms-activate.org, proxy
-host-suffix, ifttt.com, proxy
-host-suffix, fonts.net, proxy
-host-suffix, fonts.com, proxy
-host-suffix, stripocdn.email, proxy
-host-suffix, mandrillapp.com, proxy
-host-suffix, canny.io, proxy
-host-suffix, wikifunctions.org, proxy
-host-keyword, purevpn, proxy
-host-suffix, projectlombok.org, proxy
-host-suffix, marsflag.com, proxy
-host-suffix, cookielaw.org, proxy
-host-suffix, adobedtm.com, proxy
-host-suffix, songshuhui.net, proxy
-host-keyword, .z-library., proxy
-host-keyword, .1lib., proxy
-host-suffix, meta, proxy
-host-suffix, redditstatic.com, proxy
-host-suffix, discord.com, proxy
-host-suffix, discord.gg, proxy
+host-suffix, jable.tv, 最低延迟
+host, www.googleadservices.com, 最低延迟
+host-suffix, gstatic.com, 最低延迟
+host-suffix, chinadigitaltimes.net, 最低延迟
+host-suffix, sciencedirect.com, 最低延迟
+host-suffix, heygen.com, 最低延迟
+host, cdn.jsdelivr.net, 最低延迟
+host-suffix, rockstargames.com, 最低延迟
+host-suffix, spotify.com, 最低延迟
+host-suffix, spotifycdn.com, 最低延迟
+host-suffix, inoreader.com, 最低延迟
+host-suffix, sms-activate.org, 最低延迟
+host-suffix, ifttt.com, 最低延迟
+host-suffix, fonts.net, 最低延迟
+host-suffix, fonts.com, 最低延迟
+host-suffix, stripocdn.email, 最低延迟
+host-suffix, mandrillapp.com, 最低延迟
+host-suffix, canny.io, 最低延迟
+host-suffix, wikifunctions.org, 最低延迟
+host-keyword, purevpn, 最低延迟
+host-suffix, projectlombok.org, 最低延迟
+host-suffix, marsflag.com, 最低延迟
+host-suffix, cookielaw.org, 最低延迟
+host-suffix, adobedtm.com, 最低延迟
+host-suffix, songshuhui.net, 最低延迟
+host-keyword, .z-library., 最低延迟
+host-keyword, .1lib., 最低延迟
+host-suffix, meta, 最低延迟
+host-suffix, redditstatic.com, 最低延迟
+host-suffix, discord.com, 最低延迟
+host-suffix, discord.gg, 最低延迟
 
 # Reject
 host-suffix, mnaspm.com, reject
@@ -532,7 +532,7 @@ host, books.itunes.apple.com, direct
 host, radio.itunes.apple.com, direct
 host, uts-api.itunes.apple.com, direct
 # Wi-Fi 连通性检测
-host, netcts.cdn-apple.com, proxy
+host, netcts.cdn-apple.com, 最低延迟
 host, gateway.icloud.com, direct
 host, cable.auth.com, direct
 host-suffix, mail.me.com, direct
@@ -558,7 +558,7 @@ host-suffix, sharepoint.com, direct
 host-suffix, sharepointonline.com, direct
 host-suffix, azure.com, direct
 host-suffix, azure.net, direct
-host-suffix, ai.azure.com, proxy
+host-suffix, ai.azure.com, 最低延迟
 host-suffix, azureedge.net, direct
 host-suffix, msedge.net, direct
 host-suffix, msecnd.net, direct
@@ -575,14 +575,14 @@ host-suffix, office.net, direct
 host-suffix, skype.com, direct
 host-suffix, xbox.com, direct
 host-suffix, xboxservices.com, direct
-host-suffix, xboxlive.com, proxy
-host-suffix, onestore.ms, proxy
-host-suffix, dynamics.com, proxy
-host-suffix, clarity.ms, proxy
+host-suffix, xboxlive.com, 最低延迟
+host-suffix, onestore.ms, 最低延迟
+host-suffix, dynamics.com, 最低延迟
+host-suffix, clarity.ms, 最低延迟
 host-suffix, aspnetcdn.com, direct
 host-suffix, surface.com, direct
-host-suffix, store-images.microsoft.com, proxy
-host-suffix, c1.microsoft.com, proxy
+host-suffix, store-images.microsoft.com, 最低延迟
+host-suffix, c1.microsoft.com, 最低延迟
 
 # Cloudflare
 host-suffix, cloudflare.com, direct
@@ -609,13 +609,13 @@ host-suffix, scene7.com, direct
 host-suffix, behance.net, direct
 
 # Steam
-host-suffix, steampowered.com, proxy
-host-suffix, steamgames.com, proxy
+host-suffix, steampowered.com, 最低延迟
+host-suffix, steamgames.com, 最低延迟
 host-suffix, steamusercontent.com, direct
 host-suffix, steamcontent.com, direct
 host-suffix, steamstatic.com, direct
 host-suffix, akamaihd.net, direct
-host-suffix, steamcommunity.com, proxy
+host-suffix, steamcommunity.com, 最低延迟
 
 # Epic Games
 host-keyword, epicgames, direct
@@ -628,7 +628,7 @@ host-suffix, yuansfer.com, direct
 # CAPTCHA
 host-suffix, hcaptcha.com, direct
 host-suffix, recaptcha.net, direct
-host-suffix, arkoselabs.com, proxy
+host-suffix, arkoselabs.com, 最低延迟
 
 # CA
 host, ocsp.digicert.com, direct
@@ -639,10 +639,12 @@ host-suffix, usertrust.com, direct
 host, openai.com, direct
 host, images.openai.com, direct
 host, cdn.openai.com, direct
-host, chat.openai.com, proxy
-host, api.chat.openai.com, proxy
-host, platform.openai.com, proxy
-host-suffix, openai.com, proxy
+host, chat.openai.com, 最低延迟
+host, api.chat.openai.com, 最低延迟
+host, platform.openai.com, 最低延迟
+host, imagine.meta.com, 最低延迟
+host-suffix, claude.ai, 最低延迟
+host-suffix, anthropic.com, 最低延迟
 
 # Development
 host-suffix, csdn.net, direct
@@ -660,28 +662,24 @@ host-suffix, cn.vuejs.com, direct
 host-keyword, firefox, direct
 host-keyword, mozilla, direct
 host-suffix, vscode.dev, direct
-host-suffix, github.com, proxy
-host-suffix, github.dev, proxy
-host-suffix, githubusercontent.com, proxy
-host-suffix, ghcr.io, proxy
-host-suffix, brew.sh, proxy
-host-suffix, scoop.sh, proxy
-host-suffix, gitlab.com, proxy
-host-suffix, kaggle.com, proxy
-host-suffix, leetcode.com, proxy
-host-suffix, stackexchange.com, proxy
-host-suffix, stackoverflow.com, proxy
-host-suffix, serverfault.com, proxy
-host-suffix, askubuntu.com, proxy
-host-suffix, docker.com, proxy
-host-suffix, docker.io, proxy
-host-suffix, pypi.org, proxy
-host-suffix, pythonhosted.org, proxy
-host-suffix, bitbucket.org, proxy
-host-suffix, alpinelinux.org, proxy
+host-suffix, github.com, 最低延迟
+host-suffix, github.dev, 最低延迟
+host-suffix, githubusercontent.com, 最低延迟
+host-suffix, ghcr.io, 最低延迟
+host-suffix, brew.sh, 最低延迟
+host-suffix, scoop.sh, 最低延迟
+host-suffix, gitlab.com, 最低延迟
+host-suffix, kaggle.com, 最低延迟
+host-suffix, leetcode.com, 最低延迟
+host-suffix, stackexchange.com, 最低延迟
+host-suffix, stackoverflow.com, 最低延迟
+host-suffix, serverfault.com, 最低延迟
+host-suffix, askubuntu.com, 最低延迟
+host-suffix, docker.com, 最低延迟
+host-suffix, docker.io, 最低延迟
+host-suffix, pypi.org, 最低延迟
+host-suffix, pythonhosted.org, 最低延迟
+host-suffix, bitbucket.org, 最低延迟
+host-suffix, alpinelinux.org, 最低延迟
 # github.com
-ip-cidr, 20.205.243.166/32, proxy
-
-# 特殊
-host-suffix, claude.ai, 美国节点
-host-suffix, anthropic.com, 美国节点
+ip-cidr, 20.205.243.166/32, 最低延迟
