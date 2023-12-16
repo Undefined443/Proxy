@@ -88,7 +88,7 @@ dns:
   use-hosts: true
   enhanced-mode: fake-ip
   fake-ip-range: 198.18.0.1/16
-  fake-ip-filter:
+  fake-ip-filter:  #  以下域名不使用 fake-ip 策略
     - '+.lan'
     - '+.cn'
     - '+.10010.com'
@@ -108,28 +108,28 @@ dns:
     - 'ntp.ntsc.ac.cn'
     - 'sequoia.apple.com'
     - 'seed-sequoia.siri.apple.com'
-  default-nameserver:
+  default-nameserver:  # 用于解析 DNS 服务的域名，仅允许填写 IP 地址
     - 119.29.29.29
     - 114.114.114.114
-  nameserver:
-    - 119.29.29.29
-    - 114.114.114.114
-    - tls://dot.pub
-    - tls://dns.alidns.com
-  fallback:
+  nameserver:  # 主 DNS 服务器
     - 119.29.29.29
     - 114.114.114.114
     - tls://dot.pub
     - tls://dns.alidns.com
-    - tls://dns.adguard-dns.com
-    - tls://1dot1dot1dot1.cloudflare-dns.com
-    - tls://dns.google
-  fallback-filter:
-    geoip: true
-    geoip-code: CN
-    ipcidr:  # 被屏蔽的域名解析常常会被污染到这一段
-      - 240.0.0.0/4
-      - 0.0.0.0/32
+  # fallback:  # 备用 DNS 服务器，当主 DNS 被污染时使用
+  #   - 119.29.29.29
+  #   - 114.114.114.114
+  #   - tls://dot.pub
+  #   - tls://dns.alidns.com
+  #   - tls://dns.adguard-dns.com
+  #   - tls://1dot1dot1dot1.cloudflare-dns.com
+  #   - tls://dns.google
+  # fallback-filter:
+  #   geoip: true
+  #   geoip-code: CN  # 当 GEOIP 不在 CN 时使用备用 DNS 解析
+  #   ipcidr:  # 被屏蔽的域名解析常常会被污染到这一段
+  #     - 240.0.0.0/4
+  #     - 0.0.0.0/32
 
 # 1. clash DNS 请求逻辑：
 #   (1) 当访问一个域名时， nameserver 与 fallback 列表内的所有服务器并发请求，得到域名对应的 IP 地址。
