@@ -1,0 +1,9 @@
+name: Wikipedia 重定向
+desc: 将中文变体（zh-xx）Wiki 页面重定向到大陆简体（zh-cn）页面
+
+http:
+  mitm:
+    - zh.wikipedia.org
+    - zh.m.wikipedia.org
+  rewrite:
+    - ^https?:\/\/zh\.(m\.)wikipedia\.org\/(zh-(hans|hant|hk|mo|my|sg|tw)|zh) https://zh.$1wikipedia.org/zh-cn 302
