@@ -1,0 +1,10 @@
+#!name=Wikiwand 重定向
+#!desc=将 Wikipedia 重定向到 Wikiwand
+
+[URL Rewrite]
+# Wiki
+^https?:\/\/en\.(m\.)?wikipedia\.org\/(wiki)? https://www.wikiwand.com/en 302
+^https?:\/\/zh\.(m\.)?wikipedia\.org\/(zh-hans|zh-sg|zh-cn|zh(?=/)|wiki) https://www.wikiwand.com/zh-cn 302
+
+[MITM]
+hostname = *.wikipedia.org
