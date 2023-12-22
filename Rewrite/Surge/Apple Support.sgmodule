@@ -1,0 +1,8 @@
+#!name=Apple Support 重定向
+#!desc=Apple Support 重定向 zh-xx 至 zh-cn
+
+[URL Rewrite]
+^https?:\/\/support\.apple\.com\/zh-(hk|mo|sg|tw) https://support.apple.com/zh-cn 302
+
+[MITM]
+hostname = support.apple.com
