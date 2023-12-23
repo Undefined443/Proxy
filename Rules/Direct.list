@@ -479,8 +479,6 @@ DOMAIN, itunes.apple.com
 DOMAIN, books.itunes.apple.com
 DOMAIN, radio.itunes.apple.com
 DOMAIN, uts-api.itunes.apple.com
-# Wi-Fi 连通性检测
-DOMAIN, netcts.cdn-apple.com, 全球加速
 DOMAIN, gateway.icloud.com
 DOMAIN, cable.auth.com
 DOMAIN-SUFFIX, mail.me.com
