@@ -31,7 +31,7 @@ DOMAIN-SUFFIX, redditstatic.com
 DOMAIN-SUFFIX, discord.com
 DOMAIN-SUFFIX, discord.gg
 # 苹果 Wi-Fi 连通性检测
-DOMAIN, netcts.cdn-apple.com, 全球加速
+DOMAIN, netcts.cdn-apple.com
 
 # Microsoft
 DOMAIN-SUFFIX, ai.azure.com
