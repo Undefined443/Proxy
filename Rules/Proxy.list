@@ -41,6 +41,7 @@ DOMAIN-SUFFIX, dynamics.com
 DOMAIN-SUFFIX, clarity.ms
 DOMAIN-SUFFIX, store-images.microsoft.com
 DOMAIN-SUFFIX, c1.microsoft.com
+DOMAIN-SUFFIX, onedrive.live.com
 
 # Steam
 DOMAIN-SUFFIX, steampowered.com
