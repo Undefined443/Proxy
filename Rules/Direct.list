@@ -118,6 +118,7 @@ DOMAIN-SUFFIX, bankcomm.com
 DOMAIN-SUFFIX, eccdnx.com
 DOMAIN-SUFFIX, immersivetranslate.com
 DOMAIN-SUFFIX, shouqianba.com
+DOMAIN-SUFFIX, parallels.com
 
 # IP-CIDR
 IP-CIDR, 1.58.186.226/32
