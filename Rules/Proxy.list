@@ -42,6 +42,7 @@ DOMAIN-SUFFIX, clarity.ms
 DOMAIN-SUFFIX, store-images.microsoft.com
 DOMAIN-SUFFIX, c1.microsoft.com
 DOMAIN-SUFFIX, onedrive.live.com
+DOMAIN, cdn.winget.microsoft.com
 
 # Steam
 DOMAIN-SUFFIX, steampowered.com
