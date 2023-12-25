@@ -79,5 +79,3 @@ DOMAIN-SUFFIX, pypi.org
 DOMAIN-SUFFIX, pythonhosted.org
 DOMAIN-SUFFIX, bitbucket.org
 DOMAIN-SUFFIX, alpinelinux.org
-# github.com
-IP-CIDR, 20.205.243.166/32
