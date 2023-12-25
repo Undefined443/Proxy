@@ -30,6 +30,7 @@ DOMAIN-SUFFIX, meta
 DOMAIN-SUFFIX, redditstatic.com
 DOMAIN-SUFFIX, discord.com
 DOMAIN-SUFFIX, discord.gg
+DOMAIN-SUFFIX, adtidy.org
 # 苹果 Wi-Fi 连通性检测
 DOMAIN, netcts.cdn-apple.com
 
