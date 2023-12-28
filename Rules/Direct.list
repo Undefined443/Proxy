@@ -366,11 +366,7 @@ DOMAIN-SUFFIX, aspnetcdn.com
 DOMAIN-SUFFIX, surface.com
 
 # Cloudflare
-DOMAIN-SUFFIX, cloudflare.com
-DOMAIN-SUFFIX, cloudflareinsights.com
 DOMAIN-SUFFIX, cloudflare-cn.com
-DOMAIN-SUFFIX, cloudflare-dns.com
-DOMAIN-SUFFIX, cloudflare.tv
 
 # Amazon
 DOMAIN-SUFFIX, amazonaws.com

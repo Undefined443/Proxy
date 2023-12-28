@@ -1,0 +1,7 @@
+; 国内可以访问，但是速度较慢的域名
+
+# Cloudflare
+DOMAIN-SUFFIX, cloudflare.com
+DOMAIN-SUFFIX, cloudflareinsights.com
+DOMAIN-SUFFIX, cloudflare-dns.com
+DOMAIN-SUFFIX, cloudflare.tv
