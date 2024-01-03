@@ -308,6 +308,7 @@ DOMAIN-SUFFIX, huobi.com
 
 # Apple
 DOMAIN-SUFFIX, apple.com
+DOMAIN-SUFFIX, itunes.com
 DOMAIN-SUFFIX, icloud.com
 DOMAIN-SUFFIX, icloud-content.com
 DOMAIN, tv.apple.com
