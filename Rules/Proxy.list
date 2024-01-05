@@ -31,6 +31,7 @@ DOMAIN-SUFFIX, redditstatic.com
 DOMAIN-SUFFIX, discord.com
 DOMAIN-SUFFIX, discord.gg
 DOMAIN-SUFFIX, adtidy.org
+DOMAIN-SUFFIX, aol.com
 # 苹果 Wi-Fi 连通性检测
 DOMAIN, netcts.cdn-apple.com
 
