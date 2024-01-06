@@ -124,6 +124,8 @@ DOMAIN-SUFFIX, app-measurement.com
 DOMAIN-SUFFIX, mob.com
 DOMAIN-SUFFIX, monolisa.dev
 DOMAIN-SUFFIX, oracle.com
+DOMAIN-SUFFIX, oraclecloud.com
+DOMAIN-SUFFIX, oracleinfinity.io
 
 # 阿里
 DOMAIN-KEYWORD, aliyun
