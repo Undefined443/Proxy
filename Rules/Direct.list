@@ -126,6 +126,7 @@ DOMAIN-SUFFIX, monolisa.dev
 DOMAIN-SUFFIX, oracle.com
 DOMAIN-SUFFIX, oraclecloud.com
 DOMAIN-SUFFIX, oracleinfinity.io
+DOMAIN-KEYWORD, oracle.
 
 # 阿里
 DOMAIN-KEYWORD, aliyun
