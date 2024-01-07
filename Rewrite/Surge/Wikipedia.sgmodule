@@ -5,4 +5,4 @@
 ^https?:\/\/zh\.(m\.)?wikipedia\.org\/(zh-(hans|hant|hk|mo|my|sg|tw)|zh(?=/))\/ https://zh.$1wikipedia.org/zh-cn/ 302
 
 [MITM]
-hostname = *.wikipedia.org
+hostname = %APPEND% *.wikipedia.org

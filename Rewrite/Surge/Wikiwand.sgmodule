@@ -6,4 +6,4 @@
 ^https?:\/\/zh\.(m\.)?wikipedia\.org\/(zh-hans|zh-sg|zh-cn|zh(?=/)|wiki) https://www.wikiwand.com/zh-cn 302
 
 [MITM]
-hostname = *.wikipedia.org
+hostname = %APPEND% *.wikipedia.org

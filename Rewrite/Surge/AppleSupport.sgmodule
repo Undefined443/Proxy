@@ -5,4 +5,4 @@
 ^https?:\/\/support\.apple\.com\/zh-(hk|mo|sg|tw) https://support.apple.com/zh-cn 302
 
 [MITM]
-hostname = support.apple.com
+hostname = %APPEND% support.apple.com
