@@ -394,12 +394,6 @@ DOMAIN-SUFFIX, typekit.net
 DOMAIN-SUFFIX, scene7.com
 DOMAIN-SUFFIX, behance.net
 
-# Steam
-DOMAIN-SUFFIX, steamusercontent.com
-DOMAIN-SUFFIX, steamcontent.com
-DOMAIN-SUFFIX, steamstatic.com
-DOMAIN-SUFFIX, akamaihd.net
-
 # Epic Games
 DOMAIN-KEYWORD, epicgames
 DOMAIN-SUFFIX, unrealengine.com
