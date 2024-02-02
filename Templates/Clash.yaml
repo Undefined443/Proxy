@@ -109,13 +109,13 @@ dns:
     - 'sequoia.apple.com'
     - 'seed-sequoia.siri.apple.com'
   default-nameserver:  # 用于解析 DNS 服务的域名，仅允许填写 IP 地址
-    - 119.29.29.29
+    - 223.5.5.5
     - 114.114.114.114
   nameserver:  # 主 DNS 服务器
-    - 119.29.29.29
+    - 223.5.5.5
     - 114.114.114.114
-    - tls://dot.pub
-    - tls://dns.alidns.com
+  #   - tls://dot.pub
+  #   - tls://dns.alidns.com
   # fallback:  # 备用 DNS 服务器，当主 DNS 被污染时使用
   #   - 119.29.29.29
   #   - 114.114.114.114
