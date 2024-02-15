@@ -1,0 +1,8 @@
+#!name=Python Docs 重定向
+#!desc=Python Docs 重定向至 zh-cn
+
+[URL Rewrite]
+^https?:\/\/docs\.python\.org\/ https://docs.python.org/zh-cn/ 302
+
+[MITM]
+hostname = %APPEND% docs.python.org
