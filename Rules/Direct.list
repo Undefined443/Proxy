@@ -374,7 +374,6 @@ DOMAIN-SUFFIX, surface.com
 DOMAIN-SUFFIX, cloudflare-cn.com
 
 # Amazon
-DOMAIN-SUFFIX, amazonaws.com
 DOMAIN-SUFFIX, cloudfront.net
 
 # 1Password

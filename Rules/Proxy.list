@@ -47,6 +47,9 @@ DOMAIN-SUFFIX, c1.microsoft.com
 DOMAIN-SUFFIX, onedrive.live.com
 DOMAIN, cdn.winget.microsoft.com
 
+# Amazon
+DOMAIN-SUFFIX, amazonaws.com
+
 # Steam
 DOMAIN-SUFFIX, steamusercontent.com
 DOMAIN-SUFFIX, steamcontent.com
