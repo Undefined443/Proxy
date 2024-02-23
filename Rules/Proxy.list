@@ -60,6 +60,7 @@ DOMAIN-SUFFIX, steamcommunity.com
 
 # CAPTCHA
 DOMAIN-SUFFIX, arkoselabs.com
+DOMAIN-SUFFIX, hcaptcha.com
 
 # AI
 DOMAIN, chat.openai.com
