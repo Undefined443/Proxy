@@ -5,3 +5,5 @@ DOMAIN, www.bing.com
 DOMAIN, copilot.microsoft.com
 
 DOMAIN-SUFFIX, midjourney.com
+
+DOMAIN-SUFFIX, openai.com
