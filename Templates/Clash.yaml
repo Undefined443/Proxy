@@ -196,12 +196,12 @@ rule-providers:
 
 # 规则
 rules:
-  - DOMAIN, generativelanguage.googleapis.com
-  - DOMAIN, gemini.google.com
-  - DOMAIN, www.bing.com
-  - DOMAIN, copilot.microsoft.com
-  - DOMAIN-SUFFIX, midjourney.com
-  - DOMAIN-SUFFIX, openai.com
+  - DOMAIN, generativelanguage.googleapis.com,AI
+  - DOMAIN, gemini.google.com,AI
+  - DOMAIN, www.bing.com,AI
+  - DOMAIN, copilot.microsoft.com,AI
+  - DOMAIN-SUFFIX, midjourney.com,AI
+  - DOMAIN-SUFFIX, openai.com,AI
   - PROCESS-NAME,v2ray,DIRECT
   - PROCESS-NAME,xray,DIRECT
   - PROCESS-NAME,naive,DIRECT
