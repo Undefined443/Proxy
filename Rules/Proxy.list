@@ -35,6 +35,8 @@ DOMAIN-SUFFIX, aol.com
 DOMAIN-SUFFIX, sub-store.vercel.app
 # 苹果 Wi-Fi 连通性检测
 DOMAIN, netcts.cdn-apple.com
+# 1Password CLI 下载
+DOMAIN-SUFFIX, agilebits.com
 
 # Microsoft
 DOMAIN-SUFFIX, ai.azure.com

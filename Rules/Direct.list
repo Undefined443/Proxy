@@ -378,7 +378,6 @@ DOMAIN-SUFFIX, cloudfront.net
 
 # 1Password
 DOMAIN-SUFFIX, 1password.com
-DOMAIN-SUFFIX, agilebits.com
 
 # Adobe
 DOMAIN-SUFFIX, adobe.com
