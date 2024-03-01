@@ -20,7 +20,7 @@ proxy-providers:
     # https://api.dler.io/sub?target=clash&url=
     url: https://api.dler.io/sub?target=clash&url=
     interval: 3600 
-    filter: '^(?!.*剩余).+$' # 删选出含有该关键词的节点
+    filter: '^(?!.*剩余).+$' # 剔除含有该关键词的节点
     health-check:
       enable: true
       url: http://www.gstatic.com/generate_204
