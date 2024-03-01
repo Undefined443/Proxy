@@ -16,7 +16,7 @@ proxy-providers:
   provider1:
     type: http
     path: ./proxies/provider1.yaml
-    # 将你的订阅链接添加到下面链接之后
+    # 将你的订阅链接 URL encoded 后添加到下面链接之后
     # https://api.dler.io/sub?target=clash&url=
     url: https://api.dler.io/sub?target=clash&url=
     interval: 3600 
