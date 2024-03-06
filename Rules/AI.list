@@ -6,4 +6,15 @@ DOMAIN, copilot.microsoft.com
 
 DOMAIN-SUFFIX, midjourney.com
 
+DOMAIN, chat.openai.com
+DOMAIN, api.chat.openai.com
+DOMAIN, platform.openai.com
 DOMAIN-SUFFIX, openai.com
+
+DOMAIN, api.anthropic.com
+DOMAIN-SUFFIX, claude.ai
+DOMAIN-SUFFIX, anthropic.com
+
+DOMAIN, imagine.meta.com
+
+DOMAIN-SUFFIX, coze.com

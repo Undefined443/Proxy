@@ -67,15 +67,6 @@ DOMAIN-SUFFIX, steamcommunity.com
 DOMAIN-SUFFIX, arkoselabs.com
 DOMAIN-SUFFIX, hcaptcha.com
 
-# AI
-DOMAIN, chat.openai.com
-DOMAIN, api.chat.openai.com
-DOMAIN, platform.openai.com
-DOMAIN, imagine.meta.com
-DOMAIN-SUFFIX, claude.ai
-DOMAIN-SUFFIX, anthropic.com
-DOMAIN-SUFFIX, coze.com
-
 # Development
 DOMAIN-SUFFIX, github.com
 DOMAIN-SUFFIX, github.dev
