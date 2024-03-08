@@ -72,6 +72,7 @@ DOMAIN-SUFFIX, github.com
 DOMAIN-SUFFIX, github.dev
 DOMAIN-SUFFIX, githubusercontent.com
 DOMAIN-SUFFIX, ghcr.io
+DOMAIN, default.exp-tas.com
 DOMAIN-SUFFIX, brew.sh
 DOMAIN-SUFFIX, scoop.sh
 DOMAIN-SUFFIX, gitlab.com
