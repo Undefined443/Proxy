@@ -35,6 +35,7 @@ DOMAIN-SUFFIX, aol.com
 DOMAIN-SUFFIX, sub-store.vercel.app
 # 苹果 Wi-Fi 连通性检测
 DOMAIN, netcts.cdn-apple.com
+DOMAIN, podcasts.apple.com
 # 1Password CLI 下载
 DOMAIN-SUFFIX, agilebits.com
 
@@ -73,6 +74,7 @@ DOMAIN-SUFFIX, github.dev
 DOMAIN-SUFFIX, githubusercontent.com
 DOMAIN-SUFFIX, ghcr.io
 DOMAIN, default.exp-tas.com
+DOMAIN, vsmarketplacebadge.apphb.com
 DOMAIN-SUFFIX, brew.sh
 DOMAIN-SUFFIX, scoop.sh
 DOMAIN-SUFFIX, gitlab.com
