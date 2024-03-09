@@ -33,9 +33,16 @@ DOMAIN-SUFFIX, discord.gg
 DOMAIN-SUFFIX, adtidy.org
 DOMAIN-SUFFIX, aol.com
 DOMAIN-SUFFIX, sub-store.vercel.app
+
+# Apple
 # 苹果 Wi-Fi 连通性检测
 DOMAIN, netcts.cdn-apple.com
 DOMAIN, podcasts.apple.com
+DOMAIN, podcasts.itunes.apple.com
+DOMAIN, bookkeeper.itunes.apple.com
+DOMAIN, play.itunes.apple.com
+DOMAIN, xp.apple.com
+
 # 1Password CLI 下载
 DOMAIN-SUFFIX, agilebits.com
 
@@ -91,5 +98,5 @@ DOMAIN-SUFFIX, pythonhosted.org
 DOMAIN-SUFFIX, bitbucket.org
 DOMAIN-SUFFIX, alpinelinux.org
 DOMAIN-SUFFIX, ubuntu.com
-# Parallels Desktop 镜像下载，代理速度是直连两倍
+# Parallels Desktop 镜像下载，代理速度是直连五倍
 DOMAIN, download.parallels.com
