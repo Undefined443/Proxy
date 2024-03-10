@@ -320,7 +320,6 @@ DOMAIN, books.apple.com
 DOMAIN, testflight.apple.com
 DOMAIN, lookup-api.apple.com
 DOMAIN-SUFFIX, smoot.apple.com
-DOMAIN, amp-api.podcasts.apple.com
 DOMAIN, beta.music.apple.com
 DOMAIN, itunes.apple.com
 DOMAIN, books.itunes.apple.com
