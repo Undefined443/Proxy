@@ -374,9 +374,6 @@ DOMAIN-SUFFIX, cloudflare-cn.com
 # Amazon
 DOMAIN-SUFFIX, cloudfront.net
 
-# 1Password
-DOMAIN-SUFFIX, 1password.com
-
 # Adobe
 DOMAIN-SUFFIX, adobe.com
 DOMAIN-SUFFIX, adobe.io
