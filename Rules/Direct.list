@@ -346,7 +346,6 @@ DOMAIN-SUFFIX, ms
 DOMAIN, vscode-sync.trafficmanager.net
 DOMAIN-SUFFIX, vscode-unpkg.net
 DOMAIN-SUFFIX, vscode-cdn.net
-DOMAIN-SUFFIX, vsassets.io
 DOMAIN-SUFFIX, sharepoint.com
 DOMAIN-SUFFIX, sharepointonline.com
 DOMAIN-SUFFIX, azure.com
