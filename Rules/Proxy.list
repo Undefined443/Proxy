@@ -34,6 +34,8 @@ DOMAIN-SUFFIX, adtidy.org
 DOMAIN-SUFFIX, aol.com
 DOMAIN-SUFFIX, sub-store.vercel.app
 DOMAIN, www.binance.com
+DOMAIN, public.bnbstatic.com
+DOMAIN, bin.bnbstatic.com
 
 # Apple
 # 苹果 Wi-Fi 连通性检测
