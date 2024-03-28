@@ -61,6 +61,8 @@ DOMAIN-SUFFIX, c1.microsoft.com
 DOMAIN-SUFFIX, onedrive.live.com
 DOMAIN, cdn.winget.microsoft.com
 DOMAIN, vsassetscdn.azure.cn
+DOMAIN, edgeservices.bing.com
+DOMAIN, edge.microsoft.com
 
 # Amazon
 DOMAIN-SUFFIX, amazonaws.com
