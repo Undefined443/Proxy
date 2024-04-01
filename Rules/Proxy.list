@@ -48,7 +48,6 @@ DOMAIN, amp-api.podcasts.apple.com
 DOMAIN, podcasts.itunes.apple.com
 DOMAIN, bookkeeper.itunes.apple.com
 DOMAIN, play.itunes.apple.com
-DOMAIN, xp.apple.com
 
 # 1Password CLI 下载
 DOMAIN-SUFFIX, agilebits.com
