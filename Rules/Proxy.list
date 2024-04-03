@@ -45,6 +45,8 @@ DOMAIN, www.okx.com
 DOMAIN, netcts.cdn-apple.com
 DOMAIN, podcasts.apple.com
 DOMAIN, amp-api.podcasts.apple.com
+DOMAIN, itunes.apple.com
+DOMAIN, music.apple.com
 DOMAIN, podcasts.itunes.apple.com
 DOMAIN, bookkeeper.itunes.apple.com
 DOMAIN, play.itunes.apple.com
