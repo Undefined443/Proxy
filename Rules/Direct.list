@@ -330,6 +330,9 @@ DOMAIN, cable.auth.com
 DOMAIN-SUFFIX, mail.me.com
 DOMAIN-SUFFIX, apple-cloudkit.com
 
+# Google
+DOMAIN, ad.doubleclick.net
+
 # Microsoft
 DOMAIN-SUFFIX, microsoft.com
 DOMAIN-SUFFIX, s-microsoft.com
