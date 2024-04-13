@@ -419,3 +419,4 @@ DOMAIN-SUFFIX, cn.vuejs.com
 DOMAIN-SUFFIX, vscode.dev
 DOMAIN-SUFFIX, docker-cn.com
 DOMAIN, desktop.docker.com
+DOMAIN, gateway.ai.cloudflare.com
