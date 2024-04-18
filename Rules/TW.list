@@ -1,0 +1,27 @@
+# Crypto
+
+# 欧易
+DOMAIN-SUFFIX, okx.com
+DOMAIN-KEYWORD, .okx.
+DOMAIN-SUFFIX, okex.com
+DOMAIN-SUFFIX, oklink.com
+DOMAIN-SUFFIX, gihiji.com.eo.dnse4.com
+DOMAIN, api.onesignal.com
+DOMAIN, rmtp-d.sg-light-edge.cdi
+DOMAIN-SUFFIX, helixph.com
+DOMAIN-SUFFIX, amplitude.com
+DOMAIN, rmtp-d.sg-light-edge.com
+DOMAIN, contendvc.cnouyi.pizza
+DOMAIN-KEYWORD, gnmobile
+DOMAIN-KEYWORD, okx-dns
+DOMAIN-SUFFIX, rong-edge.com
+
+# 币安
+DOMAIN-SUFFIX, binance.com
+DOMAIN-SUFFIX, bnbstatic.com
+
+# 火币
+DOMAIN-SUFFIX, htx.com
+DOMAIN-SUFFIX, htx.com.fj
+DOMAIN-SUFFIX, hbfile.net
+DOMAIN-SUFFIX, huobi.com
