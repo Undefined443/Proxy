@@ -346,6 +346,8 @@ DOMAIN-SUFFIX, surface.com
 
 # Cloudflare
 DOMAIN-SUFFIX, cloudflare-cn.com
+DOMAIN, challenges.cloudflare.com
+DOMAIN, gateway.ai.cloudflare.com
 
 # Amazon
 DOMAIN-SUFFIX, cloudfront.net
@@ -396,4 +398,3 @@ DOMAIN-SUFFIX, cn.vuejs.com
 DOMAIN-SUFFIX, vscode.dev
 DOMAIN-SUFFIX, docker-cn.com
 DOMAIN, desktop.docker.com
-DOMAIN, gateway.ai.cloudflare.com
