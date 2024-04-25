@@ -1,6 +1,7 @@
 # Proxy
 DOMAIN-SUFFIX, jable.tv
 DOMAIN, www.googleadservices.com
+DOMAIN, adsense.google.com
 DOMAIN-SUFFIX, gstatic.com
 DOMAIN-SUFFIX, chinadigitaltimes.net
 DOMAIN-SUFFIX, sciencedirect.com
