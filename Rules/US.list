@@ -10,8 +10,8 @@ DOMAIN-SUFFIX, spotify.com
 
 DOMAIN-SUFFIX, paypal.com
 
-DOMAIN, facebook.com
-DOMAIN, instagram.com
+DOMAIN-SUFFIX, facebook.com
+DOMAIN-SUFFIX, instagram.com
 
 DOMAIN, api.deepl.com
 DOMAIN, api-free.deepl.com
