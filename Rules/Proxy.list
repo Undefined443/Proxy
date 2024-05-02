@@ -65,8 +65,10 @@ DOMAIN, vsassetscdn.azure.cn
 DOMAIN, edgeservices.bing.com
 DOMAIN, edge.microsoft.com
 
-# Amazon
+# AWS
 DOMAIN-SUFFIX, amazonaws.com
+
+DOMAIN-SUFFIX, workers.dev
 
 # Steam
 DOMAIN-SUFFIX, steamusercontent.com
