@@ -15,3 +15,6 @@ DOMAIN-SUFFIX, instagram.com
 
 DOMAIN, api.deepl.com
 DOMAIN, api-free.deepl.com
+
+# AWS
+DOMAIN-KEYWORD, us-east
