@@ -350,7 +350,6 @@ DOMAIN, challenges.cloudflare.com
 DOMAIN, gateway.ai.cloudflare.com
 
 # Amazon
-DOMAIN-SUFFIX, cloudfront.net
 DOMAIN-SUFFIX, aws.amazon.com
 
 # Adobe

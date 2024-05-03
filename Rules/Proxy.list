@@ -67,7 +67,7 @@ DOMAIN, edge.microsoft.com
 
 # AWS
 DOMAIN-SUFFIX, amazonaws.com
-
+DOMAIN-SUFFIX, cloudfront.net
 DOMAIN-SUFFIX, workers.dev
 
 # Steam
@@ -75,8 +75,6 @@ DOMAIN-SUFFIX, steamusercontent.com
 DOMAIN-SUFFIX, steamcontent.com
 DOMAIN-SUFFIX, steamstatic.com
 DOMAIN-SUFFIX, akamaihd.net
-
-# Steam
 DOMAIN-SUFFIX, steampowered.com
 DOMAIN-SUFFIX, steamgames.com
 DOMAIN-SUFFIX, steamcommunity.com
