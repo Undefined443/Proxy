@@ -1,19 +1,20 @@
 # Reject
-DOMAIN-SUFFIX, mnaspm.com, reject
-DOMAIN-SUFFIX, uug27.com, reject
-DOMAIN-SUFFIX, uus52.com, reject
-DOMAIN-SUFFIX, magsrv.com, reject
-DOMAIN-SUFFIX, trackwilltrk.com, reject
-DOMAIN-SUFFIX, labadena.com, reject
-DOMAIN-SUFFIX, shukriya90.com, reject
-DOMAIN-SUFFIX, strp.chat, reject
-DOMAIN-SUFFIX, stripchat.com, reject
-DOMAIN-SUFFIX, stripcdn.com, reject
-DOMAIN-SUFFIX, superchat.live, reject
-DOMAIN-SUFFIX, superchatlive.com, reject
-DOMAIN-SUFFIX, xhamsterlive.com, reject
-DOMAIN-SUFFIX, xlivesex.com, reject
-DOMAIN-SUFFIX, xlivrdr.com, reject
-DOMAIN-SUFFIX, admjmp.com, reject
-DOMAIN-SUFFIX, xxxviijmp.com, reject
-DOMAIN-SUFFIX, xxxviiijmp.com, reject
+DOMAIN-SUFFIX, mnaspm.com
+DOMAIN-SUFFIX, uug27.com
+DOMAIN-SUFFIX, uus52.com
+DOMAIN-SUFFIX, magsrv.com
+DOMAIN-SUFFIX, trackwilltrk.com
+DOMAIN-SUFFIX, labadena.com
+DOMAIN-SUFFIX, shukriya90.com
+DOMAIN-SUFFIX, strp.chat
+DOMAIN-SUFFIX, stripchat.com
+DOMAIN-SUFFIX, stripcdn.com
+DOMAIN-SUFFIX, superchat.live
+DOMAIN-SUFFIX, superchatlive.com
+DOMAIN-SUFFIX, xhamsterlive.com
+DOMAIN-SUFFIX, xlivesex.com
+DOMAIN-SUFFIX, xlivrdr.com
+DOMAIN-SUFFIX, admjmp.com
+DOMAIN-SUFFIX, xxxviijmp.com
+DOMAIN-SUFFIX, xxxviiijmp.com
+DOMAIN-SUFFIX, hm.baidu.com
