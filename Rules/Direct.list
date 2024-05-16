@@ -345,7 +345,6 @@ DOMAIN-SUFFIX, surface.com
 
 # Cloudflare
 DOMAIN-SUFFIX, cloudflare-cn.com
-DOMAIN, challenges.cloudflare.com
 
 # Amazon
 DOMAIN-SUFFIX, aws.amazon.com
