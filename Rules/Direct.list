@@ -283,14 +283,10 @@ DOMAIN-SUFFIX, calorietech.com
 DOMAIN-SUFFIX, netease.im
 
 # Apple
-DOMAIN-SUFFIX, apple.com
 DOMAIN-SUFFIX, itunes.com
 DOMAIN-SUFFIX, icloud.com
 DOMAIN-SUFFIX, icloud-content.com
-DOMAIN, tv.apple.com
 DOMAIN, app.apple.com
-DOMAIN, books.apple.com
-DOMAIN, testflight.apple.com
 DOMAIN, lookup-api.apple.com
 DOMAIN-SUFFIX, smoot.apple.com
 DOMAIN, beta.music.apple.com
@@ -298,7 +294,6 @@ DOMAIN, itunes.apple.com
 DOMAIN, books.itunes.apple.com
 DOMAIN, radio.itunes.apple.com
 DOMAIN, uts-api.itunes.apple.com
-DOMAIN, gateway.icloud.com
 DOMAIN, cable.auth.com
 DOMAIN-SUFFIX, mail.me.com
 DOMAIN-SUFFIX, apple-cloudkit.com
