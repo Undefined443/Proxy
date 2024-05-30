@@ -304,7 +304,6 @@ DOMAIN, ad.doubleclick.net
 # Microsoft
 DOMAIN-SUFFIX, microsoft.com
 DOMAIN-SUFFIX, s-microsoft.com
-DOMAIN-SUFFIX, microsoftonline.com
 DOMAIN-SUFFIX, visualstudio.com
 DOMAIN-SUFFIX, windows.com
 DOMAIN-SUFFIX, windows.net

@@ -56,6 +56,7 @@ DOMAIN-SUFFIX, ai.azure.com
 DOMAIN-SUFFIX, xboxlive.com
 DOMAIN-SUFFIX, onestore.ms
 DOMAIN-SUFFIX, dynamics.com
+DOMAIN, login.microsoftonline.com
 DOMAIN-SUFFIX, clarity.ms
 DOMAIN-SUFFIX, store-images.microsoft.com
 DOMAIN-SUFFIX, c1.microsoft.com
