@@ -317,14 +317,14 @@ DOMAIN-SUFFIX, vscode-unpkg.net
 DOMAIN-SUFFIX, vscode-cdn.net
 DOMAIN-SUFFIX, sharepoint.com
 DOMAIN-SUFFIX, sharepointonline.com
-DOMAIN-SUFFIX, azure.com
-DOMAIN-SUFFIX, azure.net
-DOMAIN-SUFFIX, azureedge.net
+# DOMAIN-SUFFIX, azure.com
+# DOMAIN-SUFFIX, azure.net
+# DOMAIN-SUFFIX, azureedge.net
 DOMAIN-SUFFIX, msedge.net
 DOMAIN-SUFFIX, msecnd.net
 DOMAIN-SUFFIX, akamaized.net
-DOMAIN-SUFFIX, windowsazure.com
-DOMAIN-SUFFIX, azurewebsites.net
+# DOMAIN-SUFFIX, windowsazure.com
+# DOMAIN-SUFFIX, azurewebsites.net
 DOMAIN-SUFFIX, appcenter.ms
 DOMAIN-SUFFIX, wallabyjs.com
 DOMAIN-SUFFIX, paddle.com
