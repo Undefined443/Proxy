@@ -53,6 +53,7 @@ DOMAIN, play.itunes.apple.com
 DOMAIN-SUFFIX, agilebits.com
 
 # Microsoft
+DOMAIN, www.microsoft.com
 DOMAIN-SUFFIX, ai.azure.com
 DOMAIN-SUFFIX, xboxlive.com
 DOMAIN-SUFFIX, onestore.ms
