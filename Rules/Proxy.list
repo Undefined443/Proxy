@@ -111,3 +111,6 @@ DOMAIN-SUFFIX, alpinelinux.org
 DOMAIN-SUFFIX, ubuntu.com
 # Parallels Desktop 镜像下载，代理速度是直连五倍
 DOMAIN, download.parallels.com
+
+# Clubloli
+DOMAIN, gh4.net
