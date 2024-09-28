@@ -300,6 +300,8 @@ DOMAIN, uts-api.itunes.apple.com
 DOMAIN, cable.auth.com
 DOMAIN-SUFFIX, mail.me.com
 DOMAIN-SUFFIX, apple-cloudkit.com
+DOMAIN, play.itunes.apple.com
+DOMAIN, xp.apple.com
 
 # Google
 DOMAIN, ad.doubleclick.net
