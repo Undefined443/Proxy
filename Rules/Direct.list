@@ -125,6 +125,7 @@ DOMAIN-SUFFIX, 1password.com
 DOMAIN-SUFFIX, my.1password.com
 DOMAIN-SUFFIX, byr.pt
 DOMAIN-SUFFIX, byr.cn
+DOMAIN-SUFFIX, coursera.org
 
 # 阿里
 DOMAIN-KEYWORD, aliyun
