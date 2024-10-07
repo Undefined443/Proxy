@@ -1,20 +1,28 @@
+# Google
 DOMAIN, generativelanguage.googleapis.com
 DOMAIN, gemini.google.com
 
+# Bing
 DOMAIN, www.bing.com
 DOMAIN, copilot.microsoft.com
 
+# MidJourney
 DOMAIN-SUFFIX, midjourney.com
 
+# OpenAI
 DOMAIN, chat.openai.com
 DOMAIN, api.chat.openai.com
 DOMAIN, platform.openai.com
 DOMAIN-SUFFIX, openai.com
 
+# Anthropic
 DOMAIN, api.anthropic.com
 DOMAIN-SUFFIX, claude.ai
 DOMAIN-SUFFIX, anthropic.com
 
+# Meta
+DOMAIN-SUFFIX, meta.ai
 DOMAIN, imagine.meta.com
 
+# Coze (TikTok)
 DOMAIN-SUFFIX, coze.com
