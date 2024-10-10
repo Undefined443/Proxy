@@ -39,6 +39,7 @@ DOMAIN-SUFFIX, gitpod.io
 DOMAIN-SUFFIX, linkedin.com
 DOMAIN-SUFFIX, arxiv.org
 DOMAIN-SUFFIX, coursera.org
+DOMAIN, my.1password.com
 
 # Apple
 # 苹果 Wi-Fi 连通性检测
