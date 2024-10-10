@@ -313,7 +313,6 @@ DOMAIN-SUFFIX, windows.com
 DOMAIN-SUFFIX, windows.net
 DOMAIN-SUFFIX, msauth.net
 DOMAIN-SUFFIX, msftauth.net
-DOMAIN-SUFFIX, live.com
 DOMAIN-SUFFIX, live.net
 DOMAIN-SUFFIX, ms
 DOMAIN, vscode-sync.trafficmanager.net

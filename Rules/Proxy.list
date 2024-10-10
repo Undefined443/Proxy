@@ -68,6 +68,7 @@ DOMAIN-SUFFIX, onedrive.live.com
 DOMAIN, cdn.winget.microsoft.com
 DOMAIN, edgeservices.bing.com
 DOMAIN, edge.microsoft.com
+DOMAIN, login.live.com
 
 # AWS
 DOMAIN-SUFFIX, amazonaws.com
