@@ -13,9 +13,6 @@ DOMAIN-SUFFIX, paypal.com
 DOMAIN-SUFFIX, facebook.com
 DOMAIN-SUFFIX, instagram.com
 
-DOMAIN, api.deepl.com
-DOMAIN, api-free.deepl.com
-
 # AWS
 DOMAIN-KEYWORD, us-east
 DOMAIN-KEYWORD, us-wast
