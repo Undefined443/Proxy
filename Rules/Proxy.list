@@ -41,6 +41,7 @@ DOMAIN-SUFFIX, arxiv.org
 DOMAIN-SUFFIX, coursera.org
 DOMAIN, my.1password.com
 DOMAIN, autoupdate.termius.com
+DOMAIN, sm.ms
 
 # Apple
 # 苹果 Wi-Fi 连通性检测
