@@ -324,7 +324,6 @@ DOMAIN-SUFFIX, sharepointonline.com
 # DOMAIN-SUFFIX, azure.net
 # DOMAIN-SUFFIX, azureedge.net
 DOMAIN-SUFFIX, msedge.net
-DOMAIN-SUFFIX, msecnd.net
 DOMAIN-SUFFIX, akamaized.net
 # DOMAIN-SUFFIX, windowsazure.com
 # DOMAIN-SUFFIX, azurewebsites.net
