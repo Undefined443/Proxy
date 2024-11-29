@@ -396,3 +396,5 @@ DOMAIN, desktop.docker.com
 # VCC
 DOMAIN-SUFFIX, vvacard.com
 DOMAIN-SUFFIX, nobepay.com
+
+DOMAIN-SUFFIX, hsbc.com.hk
