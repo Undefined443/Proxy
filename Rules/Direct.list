@@ -215,6 +215,7 @@ DOMAIN-SUFFIX, bytemaimg.com
 DOMAIN-SUFFIX, dailygn.com
 DOMAIN-SUFFIX, cfapi.net
 DOMAIN-SUFFIX, volcengine.com
+DOMAIN-SUFFIX, www.interactivebrokers.com
 
 # 快手
 DOMAIN-SUFFIX, kuaishou.com
@@ -232,6 +233,8 @@ DOMAIN-SUFFIX, biliapi.net
 DOMAIN-SUFFIX, bilivideo.com
 DOMAIN-SUFFIX, biliimg.com
 DOMAIN-SUFFIX, biligame.com
+DOMAIN-SUFFIX, chuxingyouhui.com
+DOMAIN-KEYWORD, chaoxing
 
 # 美团
 DOMAIN-SUFFIX, meituan.com
@@ -243,12 +246,6 @@ DOMAIN-SUFFIX, 126.net
 DOMAIN-SUFFIX, 127.net
 DOMAIN-SUFFIX, qiyukf.com
 DOMAIN-SUFFIX, ydstatic.com
-
-# 超星
-DOMAIN-KEYWORD, chaoxing
-
-# 全球购骑士特权
-DOMAIN-SUFFIX, chuxingyouhui.com
 
 # 简书
 DOMAIN-SUFFIX, jianshu.com
