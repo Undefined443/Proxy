@@ -123,6 +123,7 @@ DOMAIN-SUFFIX, mattel163.com
 DOMAIN-SUFFIX, 1password.com
 DOMAIN-SUFFIX, byr.pt
 DOMAIN-SUFFIX, byr.cn
+DOMAIN-KEYWORD, interactivebrokers
 
 # 阿里
 DOMAIN-KEYWORD, aliyun
