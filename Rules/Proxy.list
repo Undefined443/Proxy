@@ -42,7 +42,8 @@ DOMAIN-SUFFIX, coursera.org
 DOMAIN, my.1password.com
 DOMAIN, autoupdate.termius.com
 DOMAIN, sm.ms
-DOMAIN, ewa.bochk.com:443
+DOMAIN, ewa.bochk.com
+DOMAIN, www.interactivebrokers.com.hk
 
 # Apple
 # 苹果 Wi-Fi 连通性检测
