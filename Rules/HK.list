@@ -1,2 +1,7 @@
 DOMAIN-KEYWORD, ap-east-1
 DOMAIN-KEYWORD, asia-east2
+
+# Bank
+DOMAIN-SUFFIX, za.group
+DOMAIN-SUFFIX, zajourney.com
+DOMAIN-SUFFIX, zafinsvc.com
