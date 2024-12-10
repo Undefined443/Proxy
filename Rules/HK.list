@@ -1,3 +1,6 @@
+DOMAIN-SUFFIX, hk
+
+# AWS
 DOMAIN-KEYWORD, ap-east-1
 DOMAIN-KEYWORD, asia-east2
 
