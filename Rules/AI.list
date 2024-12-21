@@ -5,6 +5,7 @@ DOMAIN, generativelanguage.googleapis.com
 DOMAIN, gemini.google.com
 DOMAIN, labs.google.com
 DOMAIN, aistudio.google.com
+DOMAIN, ai.google.dev
 
 # Bing
 DOMAIN, www.bing.com
