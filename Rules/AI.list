@@ -4,6 +4,7 @@ DOMAIN-SUFFIX, perplexity.ai
 DOMAIN, generativelanguage.googleapis.com
 DOMAIN, gemini.google.com
 DOMAIN, labs.google.com
+DOMAIN, aistudio.google.com
 
 # Bing
 DOMAIN, www.bing.com
