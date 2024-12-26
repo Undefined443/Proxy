@@ -31,3 +31,6 @@ DOMAIN, imagine.meta.com
 
 # Coze (TikTok)
 DOMAIN-SUFFIX, coze.com
+
+# GitLab
+DOMAIN-SUFFIX, gitlab.com
