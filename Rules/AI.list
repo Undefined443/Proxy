@@ -4,6 +4,8 @@ DOMAIN-SUFFIX, perplexity.ai
 DOMAIN, generativelanguage.googleapis.com
 DOMAIN, gemini.google.com
 DOMAIN, labs.google.com
+DOMAIN, aistudio.google.com
+DOMAIN, ai.google.dev
 
 # Bing
 DOMAIN, www.bing.com
@@ -29,3 +31,6 @@ DOMAIN, imagine.meta.com
 
 # Coze (TikTok)
 DOMAIN-SUFFIX, coze.com
+
+# GitLab
+DOMAIN-SUFFIX, gitlab.com

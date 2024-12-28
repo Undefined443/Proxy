@@ -9,7 +9,9 @@ DOMAIN-SUFFIX, ibytedtos.com
 
 DOMAIN-SUFFIX, spotify.com
 
+# Paypal
 DOMAIN-SUFFIX, paypal.com
+DOMAIN-SUFFIX, paypalobjects.com
 
 # Facebook
 DOMAIN-SUFFIX, facebook.com
@@ -21,6 +23,9 @@ DOMAIN-KEYWORD, us-wast
 
 # Google
 DOMAIN-SUFFIX, learning.google.com
+
+# Microsoft
+DOMAIN-SUFFIX, xbox.com
 
 # Apple News
 DOMAIN, news-edge.apple.com

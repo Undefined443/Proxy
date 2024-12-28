@@ -104,7 +104,6 @@ DOMAIN-SUFFIX, greasyfork.org
 DOMAIN-SUFFIX, btnull.org
 DOMAIN-SUFFIX, dupay.one
 DOMAIN-SUFFIX, fastforex.io
-DOMAIN-SUFFIX, liveperson.net
 DOMAIN-SUFFIX, bankcomm.com
 DOMAIN-SUFFIX, eccdnx.com
 DOMAIN-SUFFIX, immersivetranslate.com
@@ -120,12 +119,11 @@ DOMAIN-KEYWORD, oracle.
 DOMAIN-SUFFIX, devsapp.net
 DOMAIN-SUFFIX, nlark.com
 DOMAIN-SUFFIX, mattel163.com
-DOMAIN-SUFFIX, 1password.com
 DOMAIN-SUFFIX, byr.pt
 DOMAIN-SUFFIX, byr.cn
-DOMAIN-KEYWORD, interactivebrokers
 DOMAIN-SUFFIX, linux.do
 DOMAIN, mb.bochk.com
+DOMAIN-SUFFIX, tripadvisor.com
 
 # 阿里
 DOMAIN-KEYWORD, aliyun
@@ -332,7 +330,6 @@ DOMAIN-SUFFIX, onedrive.com
 DOMAIN-SUFFIX, office.com
 DOMAIN-SUFFIX, office.net
 DOMAIN-SUFFIX, skype.com
-DOMAIN-SUFFIX, xbox.com
 DOMAIN-SUFFIX, xboxservices.com
 DOMAIN-SUFFIX, aspnetcdn.com
 DOMAIN-SUFFIX, surface.com
@@ -396,6 +393,5 @@ DOMAIN-SUFFIX, nobepay.com
 
 # Bank
 DOMAIN-SUFFIX, bochk.com
-DOMAIN-SUFFIX, hsbc.com.hk
-DOMAIN-SUFFIX, za.group
-DOMAIN-SUFFIX, zajourney.com
+
+DOMAIN-KEYWORD, bitget
