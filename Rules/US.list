@@ -31,3 +31,6 @@ DOMAIN, news-sports-events.apple.com
 DOMAIN, news-todayconfig-edge.apple.com
 DOMAIN, newsletter-edge.apple.com
 DOMAIN, c.apple.news
+
+# Social Media
+DOMAIN-KEYWORD, twitter
