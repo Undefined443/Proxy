@@ -7,27 +7,6 @@ DOMAIN-SUFFIX, tiktokcdn.com
 DOMAIN-SUFFIX, tiktokcdn-us.com
 DOMAIN-SUFFIX, ibytedtos.com
 
-DOMAIN-SUFFIX, spotify.com
-
-# Paypal
-DOMAIN-SUFFIX, paypal.com
-DOMAIN-SUFFIX, paypalobjects.com
-
-# Facebook
-DOMAIN-SUFFIX, facebook.com
-DOMAIN-SUFFIX, instagram.com
-DOMAIN-SUFFIX, meta.com
-
-# AWS
-DOMAIN-KEYWORD, us-east
-DOMAIN-KEYWORD, us-wast
-
-# Google
-DOMAIN-SUFFIX, learning.google.com
-
-# Microsoft
-DOMAIN-SUFFIX, xbox.com
-
 # Apple News
 DOMAIN, news-edge.apple.com
 DOMAIN, news-assets.apple.com
@@ -37,3 +16,29 @@ DOMAIN, news-sports-events.apple.com
 DOMAIN, news-todayconfig-edge.apple.com
 DOMAIN, newsletter-edge.apple.com
 DOMAIN, c.apple.news
+
+# Facebook
+DOMAIN-SUFFIX, facebook.com
+DOMAIN-SUFFIX, instagram.com
+DOMAIN-SUFFIX, meta.com
+
+# Paypal
+DOMAIN-SUFFIX, paypal.com
+DOMAIN-SUFFIX, paypalobjects.com
+
+# AWS
+DOMAIN-KEYWORD, us-east
+DOMAIN-KEYWORD, us-wast
+
+# Twitter
+DOMAIN-SUFFIX, twitter.com
+DOMAIN-SUFFIX, x.com
+
+# Spotify
+DOMAIN-SUFFIX, spotify.com
+
+# Google
+DOMAIN-SUFFIX, learning.google.com
+
+# Microsoft
+DOMAIN-SUFFIX, xbox.com
