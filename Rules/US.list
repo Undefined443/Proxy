@@ -40,6 +40,7 @@ DOMAIN-SUFFIX, spotify.com
 
 # Google
 DOMAIN-SUFFIX, learning.google.com
+DOMAIN-SUFFIX, voice.google.com
 
 # Microsoft
 DOMAIN-SUFFIX, xbox.com
