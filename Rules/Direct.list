@@ -395,3 +395,7 @@ DOMAIN-SUFFIX, nobepay.com
 DOMAIN-SUFFIX, bochk.com
 
 DOMAIN-KEYWORD, bitget
+
+# Research
+DOMAIN, ieeexplore.ieee.org
+DOMAIN, dl.acm.org
