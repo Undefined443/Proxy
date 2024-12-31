@@ -21,6 +21,7 @@ DOMAIN, c.apple.news
 DOMAIN-SUFFIX, facebook.com
 DOMAIN-SUFFIX, instagram.com
 DOMAIN-SUFFIX, meta.com
+DOMAIN, metadotcom.fbthirdpartypixel.com
 
 # Paypal
 DOMAIN-SUFFIX, paypal.com
