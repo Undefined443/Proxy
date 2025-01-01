@@ -27,6 +27,10 @@ DOMAIN, metadotcom.fbthirdpartypixel.com
 DOMAIN-SUFFIX, paypal.com
 DOMAIN-SUFFIX, paypalobjects.com
 
+# Google
+DOMAIN-SUFFIX, learning.google.com
+DOMAIN-SUFFIX, voice.google.com
+
 # AWS
 DOMAIN-KEYWORD, us-east
 DOMAIN-KEYWORD, us-wast
@@ -38,9 +42,6 @@ DOMAIN-SUFFIX, x.com
 # Spotify
 DOMAIN-SUFFIX, spotify.com
 
-# Google
-DOMAIN-SUFFIX, learning.google.com
-DOMAIN-SUFFIX, voice.google.com
-
 # Microsoft
 DOMAIN-SUFFIX, xbox.com
+DOMAIN-SUFFIX, xboxlive.com
