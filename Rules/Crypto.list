@@ -10,22 +10,6 @@ DOMAIN-SUFFIX, byapps.net
 DOMAIN-SUFFIX, bycsi.com
 DOMAIN-SUFFIX, bybitglobal.com
 
-# 欧易
-DOMAIN-KEYWORD, okx
-DOMAIN-KEYWORD, gnmobile
-DOMAIN-KEYWORD, okx-dns
-DOMAIN-SUFFIX, okx.com
-DOMAIN-SUFFIX, okex.com
-DOMAIN-SUFFIX, oklink.com
-DOMAIN-SUFFIX, helixph.com
-DOMAIN-SUFFIX, rong-edge.com
-DOMAIN-SUFFIX, amplitude.com
-DOMAIN-SUFFIX, gihiji.com.eo.dnse4.com
-DOMAIN, api.onesignal.com
-DOMAIN, contendvc.cnouyi.pizza
-DOMAIN, rmtp-d.sg-light-edge.cdi
-DOMAIN, rmtp-d.sg-light-edge.com
-
 # 币安
 DOMAIN-SUFFIX, binance.com
 DOMAIN-SUFFIX, bnbstatic.com
