@@ -48,3 +48,5 @@ DOMAIN-SUFFIX, xboxlive.com
 
 # IKBR
 DOMAIN-KEYWORD, interactivebrokers
+DOMAIN, api.ibkr.com
+DOMAIN-SUFFIX, ibllc.com
