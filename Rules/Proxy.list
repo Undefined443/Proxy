@@ -25,8 +25,6 @@ DOMAIN-SUFFIX, marsflag.com
 DOMAIN-SUFFIX, cookielaw.org
 DOMAIN-SUFFIX, adobedtm.com
 DOMAIN-SUFFIX, songshuhui.net
-DOMAIN-KEYWORD, .z-library.
-DOMAIN-KEYWORD, .1lib.
 DOMAIN-SUFFIX, redditstatic.com
 DOMAIN-SUFFIX, discord.com
 DOMAIN-SUFFIX, discord.gg
@@ -37,12 +35,12 @@ DOMAIN-SUFFIX, gitpod.io
 DOMAIN-SUFFIX, linkedin.com
 DOMAIN-SUFFIX, arxiv.org
 DOMAIN-SUFFIX, coursera.org
-DOMAIN, my.1password.com
 DOMAIN-SUFFIX, 1password.com
 DOMAIN, autoupdate.termius.com
 DOMAIN, sm.ms
 DOMAIN, ewa.bochk.com
-DOMAIN, linux.do
+DOMAIN-SUFFIX, linux.do
+DOMAIN-SUFFIX, mapbox.com
 
 # Apple
 # 苹果 Wi-Fi 连通性检测
