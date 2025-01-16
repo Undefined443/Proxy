@@ -45,3 +45,6 @@ DOMAIN-SUFFIX, spotify.com
 # Microsoft
 DOMAIN-SUFFIX, xbox.com
 DOMAIN-SUFFIX, xboxlive.com
+
+# IKBR
+DOMAIN-KEYWORD, interactivebrokers
