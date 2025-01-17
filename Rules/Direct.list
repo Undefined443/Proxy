@@ -123,6 +123,7 @@ DOMAIN-SUFFIX, byr.pt
 DOMAIN-SUFFIX, byr.cn
 DOMAIN, mb.bochk.com
 DOMAIN-SUFFIX, tripadvisor.com
+DOMAIN, cable.auth.com
 
 # 阿里
 DOMAIN-KEYWORD, aliyun
