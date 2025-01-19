@@ -51,6 +51,7 @@ DOMAIN, itunes.apple.com
 DOMAIN, music.apple.com
 DOMAIN, podcasts.itunes.apple.com
 DOMAIN, bookkeeper.itunes.apple.com
+DOMAIN, amp-api.videos.apple.com
 
 # 1Password CLI 下载
 DOMAIN-SUFFIX, agilebits.com
