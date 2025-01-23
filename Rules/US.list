@@ -18,6 +18,10 @@ DOMAIN, news-sports-events.apple.com
 DOMAIN, news-todayconfig-edge.apple.com
 DOMAIN, newsletter-edge.apple.com
 DOMAIN, c.apple.news
+PROCESS-NAME,/System/Applications/News.app/Contents/MacOS/News,US
+PROCESS-NAME,/System/Applications/Stocks.app/Contents/PlugIns/StocksWidget.appex/Contents/MacOS/StocksWidget,US
+PROCESS-NAME,/System/Applications/Stocks.app/Contents/MacOS/Stocks,US
+PROCESS-NAME,/System/Applications/TV.app/Contents/MacOS/TV,Streaming
 
 # Facebook
 DOMAIN-SUFFIX, facebook.com
