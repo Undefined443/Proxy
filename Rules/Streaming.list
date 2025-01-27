@@ -3,3 +3,4 @@ DOMAIN-SUFFIX, spotify.com
 DOMAIN-SUFFIX, netflix.com
 DOMAIN-SUFFIX, disneyplus.com
 DOMAIN-SUFFIX, primevideo.com
+PROCESS-NAME,/System/Applications/TV.app/Contents/MacOS/TV

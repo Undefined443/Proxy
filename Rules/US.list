@@ -18,10 +18,9 @@ DOMAIN, news-sports-events.apple.com
 DOMAIN, news-todayconfig-edge.apple.com
 DOMAIN, newsletter-edge.apple.com
 DOMAIN, c.apple.news
-PROCESS-NAME,/System/Applications/News.app/Contents/MacOS/News,US
-PROCESS-NAME,/System/Applications/Stocks.app/Contents/PlugIns/StocksWidget.appex/Contents/MacOS/StocksWidget,US
-PROCESS-NAME,/System/Applications/Stocks.app/Contents/MacOS/Stocks,US
-PROCESS-NAME,/System/Applications/TV.app/Contents/MacOS/TV,Streaming
+PROCESS-NAME,/System/Applications/News.app/Contents/MacOS/News
+PROCESS-NAME,/System/Applications/Stocks.app/Contents/PlugIns/StocksWidget.appex/Contents/MacOS/StocksWidget
+PROCESS-NAME,/System/Applications/Stocks.app/Contents/MacOS/Stocks
 
 # Facebook
 DOMAIN-SUFFIX, facebook.com
@@ -45,14 +44,14 @@ DOMAIN-KEYWORD, us-wast
 DOMAIN-SUFFIX, twitter.com
 DOMAIN-SUFFIX, x.com
 
-# Spotify
-DOMAIN-SUFFIX, spotify.com
-
 # Microsoft
 DOMAIN-SUFFIX, xbox.com
 DOMAIN-SUFFIX, xboxlive.com
 
+# Spotify
+DOMAIN-SUFFIX, spotify.com
+
 # IKBR
 DOMAIN-KEYWORD, interactivebrokers
-DOMAIN, api.ibkr.com
 DOMAIN-SUFFIX, ibllc.com
+DOMAIN, api.ibkr.com
