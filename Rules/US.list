@@ -55,3 +55,6 @@ DOMAIN-SUFFIX, spotify.com
 DOMAIN-KEYWORD, interactivebrokers
 DOMAIN-SUFFIX, ibllc.com
 DOMAIN, api.ibkr.com
+
+# Misc
+DOMAIN-SUFFIX, bhnc.me
