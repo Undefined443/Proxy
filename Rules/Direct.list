@@ -279,7 +279,6 @@ DOMAIN-SUFFIX, calorietech.com
 DOMAIN-SUFFIX, netease.im
 
 # Apple
-DOMAIN, apple.com
 DOMAIN-SUFFIX, itunes.com
 DOMAIN-SUFFIX, icloud.com
 DOMAIN-SUFFIX, mail.me.com
