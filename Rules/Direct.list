@@ -286,6 +286,9 @@ DOMAIN-SUFFIX, apple-cloudkit.com
 DOMAIN-SUFFIX, icloud-content.com
 DOMAIN, cable.auth.com
 
+# Apple Music CN
+DOMAIN, xp.apple.com
+
 # Google
 DOMAIN, ad.doubleclick.net
 

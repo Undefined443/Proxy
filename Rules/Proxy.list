@@ -58,9 +58,15 @@ DOMAIN, client-api.itunes.apple.com
 DOMAIN, bookkeeper.itunes.apple.com
 DOMAIN, amp-api.podcasts.apple.com
 DOMAIN, daf.xp.apple.com
-DOMAIN, xp.apple.com
 DOMAIN, anchor.fm
 DOMAIN, d3ctxlq1ktw2nl.cloudfront.net
+
+# Apple Music
+DOMAIN, radio-activity.itunes.apple.com
+DOMAIN, sb.music.apple.com
+DOMAIN, fpinit.itunes.apple.com
+DOMAIN, p39-buy.itunes.apple.com
+DOMAIN, musicstatus.itunes.apple.com
 
 # 1Password CLI 下载
 DOMAIN-SUFFIX, agilebits.com
