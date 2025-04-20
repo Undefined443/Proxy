@@ -324,7 +324,7 @@ DOMAIN-SUFFIX, usertrust.com
 DOMAIN, openai.com
 DOMAIN, images.openai.com
 DOMAIN, cdn.openai.com
-DOMAIN, api-proxy.oaipro.com
+DOMAIN-SUFFIX, oaipro.com
 
 # Development
 DOMAIN-SUFFIX, csdn.net
