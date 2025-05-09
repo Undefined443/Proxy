@@ -4,4 +4,5 @@ DOMAIN-SUFFIX, netflix.com
 DOMAIN-SUFFIX, disneyplus.com
 DOMAIN-SUFFIX, primevideo.com
 DOMAIN-SUFFIX, tv.apple.com
+DOMAIN-SUFFIX, peacocktv.com
 PROCESS-NAME,/System/Applications/TV.app/Contents/MacOS/TV
