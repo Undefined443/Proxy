@@ -11,6 +11,7 @@ DOMAIN, xp.apple.com
 
 # AI
 DOMAIN-SUFFIX, oaipro.com
+DOMAIN-SUFFIX, studiolab.sagemaker.aws
 
 # VCC
 DOMAIN-SUFFIX, vvacard.com
