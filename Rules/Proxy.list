@@ -68,6 +68,9 @@ DOMAIN, fpinit.itunes.apple.com
 DOMAIN, p39-buy.itunes.apple.com
 DOMAIN, musicstatus.itunes.apple.com
 
+# Apple Pay
+DOMAIN, applepay.cdn-apple.com
+
 # 1Password CLI 下载
 DOMAIN-SUFFIX, agilebits.com
 
