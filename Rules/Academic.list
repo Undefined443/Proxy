@@ -1,4 +1,5 @@
 # Research
-DOMAIN, ieeexplore.ieee.org
-DOMAIN, dl.acm.org
-DOMAIN, www.sciencedirect.com
+DOMAIN-SUFFIX, ieee.org
+DOMAIN-SUFFIX, acm.org
+DOMAIN-SUFFIX, sciencedirect.com
+DOMAIN-SUFFIX, sciencedirectassets.com
