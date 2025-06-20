@@ -5,8 +5,11 @@ DOMAIN-SUFFIX, aaai.org
 DOMAIN-SUFFIX, ieee.org
 DOMAIN-SUFFIX, pnas.org
 DOMAIN-SUFFIX, wiley.com
-DOMAIN-SUFFIX, usenix.org
 DOMAIN-SUFFIX, neurips.cc
+DOMAIN-SUFFIX, thecvf.com
+DOMAIN-SUFFIX, nature.com
+DOMAIN-SUFFIX, usenix.org
+DOMAIN-SUFFIX, science.org
 DOMAIN-SUFFIX, springer.com
 DOMAIN-SUFFIX, webofscience.com
 DOMAIN-SUFFIX, sciencedirect.com
