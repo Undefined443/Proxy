@@ -2,8 +2,10 @@
 DOMAIN-SUFFIX, acm.org
 DOMAIN-SUFFIX, acs.org
 DOMAIN-SUFFIX, aaai.org
+DOMAIN-SUFFIX, dblp.org
 DOMAIN-SUFFIX, ieee.org
 DOMAIN-SUFFIX, pnas.org
+DOMAIN-SUFFIX, arxiv.org
 DOMAIN-SUFFIX, wiley.com
 DOMAIN-SUFFIX, neurips.cc
 DOMAIN-SUFFIX, thecvf.com
@@ -13,7 +15,9 @@ DOMAIN-SUFFIX, science.org
 DOMAIN-SUFFIX, springer.com
 DOMAIN-SUFFIX, openreview.net
 DOMAIN-SUFFIX, webofscience.com
+DOMAIN-SUFFIX, dblp.uni-trier.de
 DOMAIN-SUFFIX, sciencedirect.com
 DOMAIN-SUFFIX, paperswithcode.com
+DOMAIN-SUFFIX, connectedpapers.com
 DOMAIN-SUFFIX, semanticscholar.org
 DOMAIN-SUFFIX, sciencedirectassets.com
