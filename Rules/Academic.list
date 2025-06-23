@@ -9,6 +9,7 @@ DOMAIN-SUFFIX, jmlr.org
 DOMAIN-SUFFIX, ieee.org
 DOMAIN-SUFFIX, pnas.org
 DOMAIN-SUFFIX, cell.com
+DOMAIN-SUFFIX, orcid.org
 DOMAIN-SUFFIX, arxiv.org
 DOMAIN-SUFFIX, wiley.com
 DOMAIN-SUFFIX, neurips.cc
@@ -19,6 +20,7 @@ DOMAIN-SUFFIX, science.org
 DOMAIN-SUFFIX, overleaf.com
 DOMAIN-SUFFIX, springer.com
 DOMAIN-SUFFIX, elsevier.com
+# DOMAIN-SUFFIX, crossref.org
 #DOMAIN-SUFFIX, openreview.net
 DOMAIN-SUFFIX, researchgate.net
 DOMAIN-SUFFIX, webofscience.com
