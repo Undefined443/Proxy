@@ -17,10 +17,10 @@ DOMAIN-SUFFIX, thecvf.com
 DOMAIN-SUFFIX, nature.com
 DOMAIN-SUFFIX, usenix.org
 DOMAIN-SUFFIX, science.org
-DOMAIN-SUFFIX, overleaf.com
 DOMAIN-SUFFIX, springer.com
 DOMAIN-SUFFIX, elsevier.com
-# DOMAIN-SUFFIX, crossref.org
+#DOMAIN-SUFFIX, overleaf.com
+#DOMAIN-SUFFIX, crossref.org
 #DOMAIN-SUFFIX, openreview.net
 DOMAIN-SUFFIX, researchgate.net
 DOMAIN-SUFFIX, webofscience.com
