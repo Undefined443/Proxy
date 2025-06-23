@@ -20,8 +20,9 @@ DOMAIN-SUFFIX, science.org
 DOMAIN-SUFFIX, springer.com
 DOMAIN-SUFFIX, elsevier.com
 #DOMAIN-SUFFIX, overleaf.com
-#DOMAIN-SUFFIX, crossref.org
-#DOMAIN-SUFFIX, openreview.net
+# DOMAIN-SUFFIX, crossref.org
+DOMAIN-SUFFIX, clarivate.com
+# DOMAIN-SUFFIX, openreview.net
 DOMAIN-SUFFIX, researchgate.net
 DOMAIN-SUFFIX, webofscience.com
 DOMAIN-SUFFIX, dblp.uni-trier.de
