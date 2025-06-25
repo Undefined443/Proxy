@@ -23,3 +23,6 @@ DOMAIN-SUFFIX, wise.com
 
 # qq
 DOMAIN-SUFFIX, qq.com
+
+# AWS
+DOMAIN-SUFFIX, aws.amazon.com
