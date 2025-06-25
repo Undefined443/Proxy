@@ -25,4 +25,4 @@ DOMAIN-SUFFIX, wise.com
 DOMAIN-SUFFIX, qq.com
 
 # AWS
-DOMAIN-SUFFIX, aws.amazon.com
+DOMAIN-SUFFIX, console.aws.amazon.com
