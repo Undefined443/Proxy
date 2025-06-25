@@ -37,8 +37,8 @@ DOMAIN-SUFFIX, learning.google.com
 DOMAIN-SUFFIX, voice.google.com
 
 # AWS
-DOMAIN-KEYWORD, us-east
-DOMAIN-KEYWORD, us-wast
+# DOMAIN-KEYWORD, us-east
+# DOMAIN-KEYWORD, us-wast
 
 # Twitter
 DOMAIN-SUFFIX, twitter.com

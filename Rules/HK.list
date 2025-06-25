@@ -1,8 +1,8 @@
 DOMAIN-SUFFIX, hk
 
 # AWS
-DOMAIN-KEYWORD, ap-east-1
-DOMAIN-KEYWORD, asia-east2
+# DOMAIN-KEYWORD, ap-east-1
+# DOMAIN-KEYWORD, asia-east2
 
 # Bank
 DOMAIN-SUFFIX, za.group

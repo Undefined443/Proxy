@@ -1,9 +1,6 @@
 # Proxy
 DOMAIN-SUFFIX, jable.tv
-DOMAIN, www.googleadservices.com
-DOMAIN, adsense.google.com
 DOMAIN-SUFFIX, mit.edu
-DOMAIN-SUFFIX, gstatic.com
 DOMAIN-SUFFIX, chinadigitaltimes.net
 DOMAIN-SUFFIX, heygen.com
 DOMAIN, cdn.jsdelivr.net
@@ -42,20 +39,25 @@ DOMAIN, ewa.bochk.com
 DOMAIN-SUFFIX, linux.do
 DOMAIN-SUFFIX, mapbox.com
 
+# Google
+DOMAIN, www.googleadservices.com
+DOMAIN, adsense.google.com
+DOMAIN-SUFFIX, gstatic.com
+
 # Apple
 # 苹果 Wi-Fi 连通性检测
 DOMAIN, netcts.cdn-apple.com
-DOMAIN, podcasts.apple.com
 DOMAIN, itunes.apple.com
 DOMAIN, music.apple.com
-DOMAIN, podcasts.itunes.apple.com
 DOMAIN, amp-api.videos.apple.com
 
 # Podcast
 DOMAIN, entitlements-edge.itunes.apple.com
 DOMAIN, client-api.itunes.apple.com
 DOMAIN, bookkeeper.itunes.apple.com
+DOMAIN, podcasts.apple.com
 DOMAIN, amp-api.podcasts.apple.com
+DOMAIN, podcasts.itunes.apple.com
 DOMAIN, daf.xp.apple.com
 DOMAIN, anchor.fm
 DOMAIN, d3ctxlq1ktw2nl.cloudfront.net
