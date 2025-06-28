@@ -13,7 +13,7 @@ DOMAIN-SUFFIX, cell.com
 DOMAIN-SUFFIX, orcid.org
 DOMAIN-SUFFIX, arxiv.org
 DOMAIN-SUFFIX, wiley.com
-DOMAIN-SUFFIX, neurips.cc
+# DOMAIN-SUFFIX, neurips.cc
 DOMAIN-SUFFIX, thecvf.com
 DOMAIN-SUFFIX, nature.com
 DOMAIN-SUFFIX, usenix.org
