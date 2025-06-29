@@ -20,7 +20,7 @@ DOMAIN-SUFFIX, usenix.org
 DOMAIN-SUFFIX, science.org
 DOMAIN-SUFFIX, springer.com
 DOMAIN-SUFFIX, elsevier.com
-#DOMAIN-SUFFIX, overleaf.com
+DOMAIN-SUFFIX, overleaf.com
 # DOMAIN-SUFFIX, crossref.org
 DOMAIN-SUFFIX, clarivate.com
 # DOMAIN-SUFFIX, openreview.net
