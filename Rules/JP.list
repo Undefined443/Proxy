@@ -3,3 +3,5 @@ DOMAIN-SUFFIX, jp
 # AWS
 # DOMAIN-KEYWORD, ap-northeast-1
 # DOMAIN-KEYWORD, ap-northeast-3
+
+DOMAIN, special.dmm.com
