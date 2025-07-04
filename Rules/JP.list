@@ -4,5 +4,5 @@ DOMAIN-SUFFIX, jp
 # DOMAIN-KEYWORD, ap-northeast-1
 # DOMAIN-KEYWORD, ap-northeast-3
 
-DOMAIN, special.dmm.com
+DOMAIN-SUFFIX, dmm.com
 DOMAIN-SUFFIX, dmm.co.jp
