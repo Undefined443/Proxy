@@ -109,7 +109,6 @@ DOMAIN-SUFFIX, steamcommunity.com
 # CAPTCHA
 DOMAIN-SUFFIX, arkoselabs.com
 DOMAIN-SUFFIX, hcaptcha.com
-DOMAIN, challenges.cloudflare.com
 
 # Development
 DOMAIN-SUFFIX, github.com

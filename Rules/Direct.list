@@ -28,3 +28,5 @@ DOMAIN-SUFFIX, qq.com
 
 # AWS
 DOMAIN-SUFFIX, console.aws.amazon.com
+
+DOMAIN, challenges.cloudflare.com
