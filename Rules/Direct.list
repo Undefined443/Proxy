@@ -30,3 +30,5 @@ DOMAIN-SUFFIX, qq.com
 DOMAIN-SUFFIX, console.aws.amazon.com
 
 DOMAIN, challenges.cloudflare.com
+
+DOMAIN-SUFFIX, maxmind.com
