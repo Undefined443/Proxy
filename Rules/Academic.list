@@ -1,11 +1,11 @@
 # Research
+DOMAIN, ojs.aaai.org
 DOMAIN-SUFFIX, acm.org
 DOMAIN-SUFFIX, doi.org
 # DOMAIN-SUFFIX, icml.cc
 DOMAIN-SUFFIX, iclr.cc
 DOMAIN-SUFFIX, acs.org
 # DOMAIN-SUFFIX, aaai.org
-DOMAIN, ojs.aaai.org
 DOMAIN-SUFFIX, dblp.org
 DOMAIN-SUFFIX, jmlr.org
 DOMAIN-SUFFIX, ieee.org
