@@ -33,7 +33,9 @@ DOMAIN-SUFFIX, clarivate.com
 # DOMAIN-SUFFIX, openreview.net
 DOMAIN-SUFFIX, researchgate.net
 DOMAIN-SUFFIX, webofscience.com
+DOMAIN-SUFFIX, journals.lww.com
 DOMAIN-SUFFIX, dblp.uni-trier.de
+DOMAIN-SUFFIX, wolterskluwer.com
 DOMAIN-SUFFIX, sciencedirect.com
 DOMAIN-SUFFIX, paperswithcode.com
 DOMAIN-SUFFIX, springernature.com
