@@ -39,3 +39,6 @@ DOMAIN-SUFFIX, gitlab.com
 
 # Cursor
 DOMAIN, api2.cursor.sh
+
+# Zed
+DOMAIN, cloud.zed.dev
