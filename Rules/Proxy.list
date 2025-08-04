@@ -132,6 +132,7 @@ DOMAIN-SUFFIX, pythonhosted.org
 DOMAIN-SUFFIX, bitbucket.org
 DOMAIN-SUFFIX, alpinelinux.org
 DOMAIN-SUFFIX, ubuntu.com
+DOMAIN-SUFFIX, navicat.com
 # Parallels Desktop 镜像下载，代理速度是直连五倍
 DOMAIN, download.parallels.com
 
