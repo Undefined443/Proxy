@@ -5,4 +5,5 @@ DOMAIN-SUFFIX, disneyplus.com
 DOMAIN-SUFFIX, primevideo.com
 DOMAIN-SUFFIX, tv.apple.com
 DOMAIN-SUFFIX, peacocktv.com
+DOMAIN-SUFFIX, paramountplus.com
 PROCESS-NAME,/System/Applications/TV.app/Contents/MacOS/TV
