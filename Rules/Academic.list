@@ -33,6 +33,7 @@ DOMAIN-SUFFIX, ebscohost.com
 DOMAIN-SUFFIX, clarivate.com
 DOMAIN-SUFFIX, openathens.net
 # DOMAIN-SUFFIX, openreview.net
+DOMAIN-KEYWORD, springernature
 DOMAIN-SUFFIX, tandfonline.com
 DOMAIN-SUFFIX, researchgate.net
 DOMAIN-SUFFIX, webofscience.com
