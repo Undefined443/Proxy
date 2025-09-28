@@ -1,13 +1,11 @@
-DOMAIN-SUFFIX, perplexity.ai
-
 # Google
-DOMAIN, generativelanguage.googleapis.com
 DOMAIN, gemini.google.com
 DOMAIN, labs.google.com
 DOMAIN, aistudio.google.com
-DOMAIN, ai.google.dev
 DOMAIN, apis.google.com
 DOMAIN, notebooklm.google.com
+DOMAIN, ai.google.dev
+DOMAIN, generativelanguage.googleapis.com
 
 # Bing
 DOMAIN, www.bing.com
@@ -17,15 +15,19 @@ DOMAIN, copilot.microsoft.com
 DOMAIN-SUFFIX, midjourney.com
 
 # OpenAI
-DOMAIN, chat.openai.com
-DOMAIN, api.chat.openai.com
-DOMAIN, platform.openai.com
+DOMAIN-SUFFIX, chatgpt.com
 DOMAIN-SUFFIX, openai.com
+
+# Perplexity
+DOMAIN-SUFFIX, perplexity.ai
 
 # Anthropic
 DOMAIN-SUFFIX, claude.ai
 DOMAIN-SUFFIX, claude.com
 DOMAIN-SUFFIX, anthropic.com
+
+# Cursor
+DOMAIN-SUFFIX, cursor.sh
 
 # Meta
 DOMAIN-SUFFIX, meta.ai
@@ -36,9 +38,6 @@ DOMAIN-SUFFIX, coze.com
 
 # GitLab
 DOMAIN-SUFFIX, gitlab.com
-
-# Cursor
-DOMAIN, api2.cursor.sh
 
 # Zed
 DOMAIN, cloud.zed.dev
