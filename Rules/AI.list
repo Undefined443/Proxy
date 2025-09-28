@@ -23,8 +23,8 @@ DOMAIN, platform.openai.com
 DOMAIN-SUFFIX, openai.com
 
 # Anthropic
-DOMAIN, api.anthropic.com
 DOMAIN-SUFFIX, claude.ai
+DOMAIN-SUFFIX, claude.com
 DOMAIN-SUFFIX, anthropic.com
 
 # Meta
