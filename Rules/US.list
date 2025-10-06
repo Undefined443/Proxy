@@ -1,13 +1,13 @@
 DOMAIN-SUFFIX, us
 
 # TikTok
-DOMAIN-SUFFIX, tiktok.com
-DOMAIN-SUFFIX, tiktokv.us
-DOMAIN-SUFFIX, tiktokw.us
-DOMAIN-SUFFIX, tiktokv.com
-DOMAIN-SUFFIX, tiktokcdn.com
-DOMAIN-SUFFIX, tiktokcdn-us.com
-DOMAIN-SUFFIX, ibytedtos.com
+;DOMAIN-SUFFIX, tiktok.com
+;DOMAIN-SUFFIX, tiktokv.us
+;DOMAIN-SUFFIX, tiktokw.us
+;DOMAIN-SUFFIX, tiktokv.com
+;DOMAIN-SUFFIX, tiktokcdn.com
+;DOMAIN-SUFFIX, tiktokcdn-us.com
+;DOMAIN-SUFFIX, ibytedtos.com
 
 # Apple News
 DOMAIN, news-edge.apple.com
