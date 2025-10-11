@@ -52,11 +52,6 @@ DOMAIN-SUFFIX, xboxlive.com
 # Spotify
 DOMAIN-SUFFIX, spotify.com
 
-# IKBR
-DOMAIN-KEYWORD, interactivebrokers
-DOMAIN-SUFFIX, ibllc.com
-DOMAIN, api.ibkr.com
-
 # Misc
 DOMAIN-SUFFIX, bhnc.me
 DOMAIN-SUFFIX, poshmark.com

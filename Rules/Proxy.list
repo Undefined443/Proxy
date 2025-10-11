@@ -141,3 +141,8 @@ DOMAIN, gh4.net
 
 # Academic
 DOMAIN-SUFFIX, resource-cms.springernature.com
+
+# IBKR
+DOMAIN-KEYWORD, interactivebrokers
+DOMAIN-SUFFIX, ibllc.com
+DOMAIN, api.ibkr.com
