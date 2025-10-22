@@ -77,18 +77,15 @@ DOMAIN-SUFFIX, agilebits.com
 # Microsoft
 DOMAIN, www.microsoft.com
 DOMAIN-SUFFIX, ai.azure.com
-DOMAIN-SUFFIX, xboxlive.com
 DOMAIN-SUFFIX, onestore.ms
 DOMAIN-SUFFIX, dynamics.com
 DOMAIN, login.microsoftonline.com
 DOMAIN-SUFFIX, clarity.ms
 DOMAIN-SUFFIX, store-images.microsoft.com
 DOMAIN-SUFFIX, c1.microsoft.com
-DOMAIN-SUFFIX, onedrive.live.com
 DOMAIN, cdn.winget.microsoft.com
 DOMAIN, edgeservices.bing.com
 DOMAIN, edge.microsoft.com
-DOMAIN, login.live.com
 DOMAIN-SUFFIX, msecnd.net
 
 # AWS
