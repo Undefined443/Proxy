@@ -15,9 +15,6 @@ DOMAIN, xp.apple.com
 DOMAIN-SUFFIX, oaipro.com
 DOMAIN-SUFFIX, studiolab.sagemaker.aws
 
-# Microsoft
-DOMAIN-SUFFIX, live.com
-
 # VCC
 DOMAIN-SUFFIX, vvacard.com
 DOMAIN-SUFFIX, nobepay.com
