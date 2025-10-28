@@ -107,6 +107,11 @@ DOMAIN-SUFFIX, steamcommunity.com
 DOMAIN-SUFFIX, arkoselabs.com
 DOMAIN-SUFFIX, hcaptcha.com
 
+# IBKR
+DOMAIN-KEYWORD, interactivebrokers
+DOMAIN-SUFFIX, ibllc.com
+DOMAIN-SUFFIX, ibkr.com
+
 # Development
 DOMAIN-SUFFIX, github.com
 DOMAIN-SUFFIX, github.dev

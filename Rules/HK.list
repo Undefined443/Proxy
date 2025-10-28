@@ -9,8 +9,3 @@ DOMAIN-SUFFIX, za.group
 DOMAIN-SUFFIX, zajourney.com
 DOMAIN-SUFFIX, zafinsvc.com
 DOMAIN-SUFFIX, hsbc.com.hk
-
-# IBKR
-DOMAIN-KEYWORD, interactivebrokers
-DOMAIN-SUFFIX, ibllc.com
-DOMAIN-SUFFIX, ibkr.com
