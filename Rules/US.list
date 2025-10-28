@@ -19,8 +19,6 @@ DOMAIN, news-todayconfig-edge.apple.com
 DOMAIN, newsletter-edge.apple.com
 DOMAIN, c.apple.news
 PROCESS-NAME,/System/Applications/News.app/Contents/MacOS/News
-PROCESS-NAME,/System/Applications/Stocks.app/Contents/PlugIns/StocksWidget.appex/Contents/MacOS/StocksWidget
-PROCESS-NAME,/System/Applications/Stocks.app/Contents/MacOS/Stocks
 
 # Facebook
 DOMAIN-SUFFIX, facebook.com
@@ -41,9 +39,9 @@ DOMAIN-SUFFIX, voice.google.com
 # DOMAIN-KEYWORD, us-wast
 
 # Twitter
-DOMAIN-SUFFIX, twitter.com
-DOMAIN-SUFFIX, twimg.com
-DOMAIN-SUFFIX, x.com
+# DOMAIN-SUFFIX, twitter.com
+# DOMAIN-SUFFIX, twimg.com
+# DOMAIN-SUFFIX, x.com
 
 # Microsoft
 DOMAIN-SUFFIX, xbox.com
