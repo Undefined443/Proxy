@@ -34,3 +34,4 @@ DOMAIN-SUFFIX, maxmind.com
 DOMAIN-SUFFIX, hf-mirror.com
 DOMAIN, challenges.cloudflare.com
 DOMAIN, download.pytorch.org
+DOMAIN, mirror.ctan.org
