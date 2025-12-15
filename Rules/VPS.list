@@ -5,5 +5,5 @@ DOMAIN-SUFFIX, claude.com
 DOMAIN-SUFFIX, chatgpt.com
 DOMAIN-SUFFIX, openai.com
 
-DOMAIN, generativelanguage.googleapis.com
+DOMAIN-SUFFIX, googleapis.com
 
