@@ -5,7 +5,7 @@ DOMAIN, aistudio.google.com
 DOMAIN, apis.google.com
 DOMAIN, notebooklm.google.com
 DOMAIN, ai.google.dev
-DOMAIN, generativelanguage.googleapis.com
+DOMAIN-SUFFIX, googleapis.com
 
 # Bing
 DOMAIN, www.bing.com
