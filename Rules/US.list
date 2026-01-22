@@ -1,4 +1,6 @@
 DOMAIN-SUFFIX, us
+DOMAIN-SUFFIX, edu
+DOMAIN-SUFFIX, gov
 
 # TikTok
 #DOMAIN-SUFFIX, tiktok.com
