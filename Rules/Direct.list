@@ -1,4 +1,5 @@
 DOMAIN-SUFFIX, cn
+DOMAIN-SUFFIX, zhihu.com
 
 # Apple
 DOMAIN-SUFFIX, itunes.com
@@ -13,15 +14,9 @@ DOMAIN, xp.apple.com
 
 # AI
 DOMAIN-SUFFIX, oaipro.com
-DOMAIN-SUFFIX, renrenai.chat
-DOMAIN-SUFFIX, studiolab.sagemaker.aws
 DOMAIN-SUFFIX, qoder.com
 DOMAIN-SUFFIX, qoder.ai
 DOMAIN-SUFFIX, fuclaude.com
-
-# VCC
-DOMAIN-SUFFIX, vvacard.com
-DOMAIN-SUFFIX, nobepay.com
 
 # Bank
 DOMAIN-SUFFIX, bochk.com
@@ -31,7 +26,6 @@ DOMAIN-SUFFIX, wise.com
 DOMAIN-SUFFIX, qq.com
 
 # Development
-DOMAIN-SUFFIX, maxmind.com
 DOMAIN-SUFFIX, hf-mirror.com
 DOMAIN, challenges.cloudflare.com
 DOMAIN, download.pytorch.org
