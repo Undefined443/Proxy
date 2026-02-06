@@ -6,5 +6,6 @@ DOMAIN-SUFFIX, primevideo.com
 DOMAIN-SUFFIX, tv.apple.com
 DOMAIN-SUFFIX, peacocktv.com
 DOMAIN-SUFFIX, paramountplus.com
+PROCESS-NAME,/Applications/Spotify.app/,US
+PROCESS-NAME,/System/Applications/Music.app/,Global
 PROCESS-NAME,/System/Applications/TV.app/Contents/MacOS/TV
-
