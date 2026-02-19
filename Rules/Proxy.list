@@ -140,6 +140,8 @@ DOMAIN-SUFFIX, navicat.com
 # Parallels Desktop 镜像下载，代理速度是直连五倍
 DOMAIN, download.parallels.com
 
+DOMAIN-SUFFIX, playstation.com
+
 # Clubloli
 DOMAIN, gh4.net
 
