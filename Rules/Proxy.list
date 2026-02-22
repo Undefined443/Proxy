@@ -90,6 +90,11 @@ DOMAIN, edge.microsoft.com
 DOMAIN-SUFFIX, msecnd.net
 DOMAIN-SUFFIX, live.com
 
+# Twitter
+DOMAIN-SUFFIX, twitter.com
+DOMAIN-SUFFIX, twimg.com
+DOMAIN-SUFFIX, x.com
+
 # AWS
 DOMAIN-SUFFIX, amazonaws.com
 DOMAIN-SUFFIX, cloudfront.net

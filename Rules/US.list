@@ -39,11 +39,6 @@ DOMAIN-SUFFIX, instagram.com
 DOMAIN-SUFFIX, meta.com
 DOMAIN, metadotcom.fbthirdpartypixel.com
 
-# Twitter
-DOMAIN-SUFFIX, twitter.com
-DOMAIN-SUFFIX, twimg.com
-DOMAIN-SUFFIX, x.com
-
 # Paypal
 DOMAIN-SUFFIX, paypal.com
 DOMAIN-SUFFIX, paypalobjects.com
