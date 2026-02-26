@@ -1,15 +1,18 @@
-DOMAIN-SUFFIX, anthropic.com
-DOMAIN-SUFFIX, clau.de
-DOMAIN-SUFFIX, claude.ai
-DOMAIN-SUFFIX, claude.com
-DOMAIN-SUFFIX, claudeusercontent.com
-DOMAIN, cdn.usefathom.com
-PROCESS-NAME, /Applications/Claude.app/
+# Anthropic
+#DOMAIN-SUFFIX, anthropic.com
+#DOMAIN-SUFFIX, clau.de
+#DOMAIN-SUFFIX, claude.ai
+#DOMAIN-SUFFIX, claude.com
+#DOMAIN-SUFFIX, claudeusercontent.com
+#DOMAIN, cdn.usefathom.com
+#PROCESS-NAME, /Applications/Claude.app/
 
-DOMAIN-SUFFIX, chatgpt.com
-DOMAIN-SUFFIX, openai.com
-DOMAIN-SUFFIX, oaiusercontent.com
+# OpenAI
+#DOMAIN-SUFFIX, chatgpt.com
+#DOMAIN-SUFFIX, openai.com
+#DOMAIN-SUFFIX, oaiusercontent.com
 
-PROCESS-NAME, /Applications/Antigravity.app/
+# Google
+#PROCESS-NAME, /Applications/Antigravity.app/
 
 DOMAIN-SUFFIX, ndcdyn.interactivebrokers.com
