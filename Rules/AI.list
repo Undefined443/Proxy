@@ -1,3 +1,17 @@
+# Anthropic
+DOMAIN-SUFFIX, anthropic.com
+DOMAIN-SUFFIX, clau.de
+DOMAIN-SUFFIX, claude.ai
+DOMAIN-SUFFIX, claude.com
+DOMAIN-SUFFIX, claudeusercontent.com
+DOMAIN, cdn.usefathom.com
+PROCESS-NAME, /Applications/Claude.app/
+
+# OpenAI
+DOMAIN-SUFFIX, chatgpt.com
+DOMAIN-SUFFIX, openai.com
+DOMAIN-SUFFIX, oaiusercontent.com
+
 # Google
 DOMAIN, gemini.google.com
 DOMAIN, labs.google.com
@@ -6,6 +20,7 @@ DOMAIN, apis.google.com
 DOMAIN, notebooklm.google.com
 DOMAIN, ai.google.dev
 DOMAIN-SUFFIX, googleapis.com
+PROCESS-NAME, /Applications/Antigravity.app/
 
 # Bing
 DOMAIN, www.bing.com
@@ -14,18 +29,8 @@ DOMAIN, copilot.microsoft.com
 # MidJourney
 DOMAIN-SUFFIX, midjourney.com
 
-# OpenAI
-DOMAIN-SUFFIX, chatgpt.com
-DOMAIN-SUFFIX, openai.com
-DOMAIN-SUFFIX, oaiusercontent.com
-
 # Perplexity
 DOMAIN-SUFFIX, perplexity.ai
-
-# Anthropic
-DOMAIN-SUFFIX, claude.ai
-DOMAIN-SUFFIX, claude.com
-DOMAIN-SUFFIX, anthropic.com
 
 # Cursor
 DOMAIN-SUFFIX, cursor.sh
