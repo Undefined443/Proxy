@@ -3,10 +3,10 @@ DOMAIN-SUFFIX, zhihu.com
 
 # Apple
 DOMAIN-SUFFIX, itunes.com
-DOMAIN-SUFFIX, icloud.com
+#DOMAIN-SUFFIX, icloud.com
 DOMAIN-SUFFIX, mail.me.com
 DOMAIN-SUFFIX, apple-cloudkit.com
-DOMAIN-SUFFIX, icloud-content.com
+#DOMAIN-SUFFIX, icloud-content.com
 DOMAIN, cable.auth.com
 
 # Apple Music CN
