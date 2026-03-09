@@ -22,6 +22,9 @@ DOMAIN, ai.google.dev
 DOMAIN-SUFFIX, googleapis.com
 PROCESS-NAME, /Applications/Antigravity.app/
 
+# xAI
+DOMAIN-SUFFIX, x.ai
+
 # Bing
 DOMAIN, www.bing.com
 DOMAIN, copilot.microsoft.com
