@@ -50,6 +50,7 @@ DOMAIN, netcts.cdn-apple.com
 DOMAIN, itunes.apple.com
 DOMAIN, music.apple.com
 DOMAIN, amp-api.videos.apple.com
+DOMAIN-SUFFIX, icloud-content.com
 
 # Podcast
 DOMAIN, entitlements-edge.itunes.apple.com
