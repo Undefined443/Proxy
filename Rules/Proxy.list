@@ -49,6 +49,7 @@ DOMAIN-SUFFIX, gstatic.com
 DOMAIN, netcts.cdn-apple.com
 DOMAIN, itunes.apple.com
 DOMAIN, music.apple.com
+DOMAIN, developer.apple.com
 DOMAIN, amp-api.videos.apple.com
 DOMAIN-SUFFIX, icloud-content.com
 
