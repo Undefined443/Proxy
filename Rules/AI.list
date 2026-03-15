@@ -50,3 +50,6 @@ DOMAIN-SUFFIX, gitlab.com
 
 # Zed
 DOMAIN, cloud.zed.dev
+
+# Dia Browser
+DOMAIN-SUFFIX, diabrowser.com
