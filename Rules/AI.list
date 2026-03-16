@@ -54,3 +54,6 @@ DOMAIN, cloud.zed.dev
 # Dia Browser
 DOMAIN-SUFFIX, diabrowser.com
 DOMAIN-SUFFIX, diabrowser.engineering
+
+# OpenRouter
+DOMAIN-SUFFIX, openrouter.ai
