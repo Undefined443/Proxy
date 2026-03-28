@@ -124,6 +124,7 @@ DOMAIN-SUFFIX, ibkr.com
 DOMAIN-SUFFIX, github.com
 DOMAIN-SUFFIX, github.dev
 DOMAIN-SUFFIX, githubusercontent.com
+DOMAIN-SUFFIX, githubcopilot.com
 DOMAIN-SUFFIX, ghcr.io
 DOMAIN, default.exp-tas.com
 DOMAIN, vsmarketplacebadge.apphb.com
