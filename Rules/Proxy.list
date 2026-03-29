@@ -51,6 +51,16 @@ DOMAIN, itunes.apple.com
 DOMAIN, music.apple.com
 DOMAIN, developer.apple.com
 DOMAIN, amp-api.videos.apple.com
+DOMAIN, p136-mcc.icloud.com
+DOMAIN, p136-fmip.icloud.com
+DOMAIN, p136-docws.icloud.com
+DOMAIN, p136-caldav.icloud.com
+DOMAIN, p136-content.icloud.com
+DOMAIN, p136-contacts.icloud.com
+DOMAIN, p136-contactsws.icloud.com
+DOMAIN, p136-calendarws.icloud.com
+DOMAIN, p136-mccgateway.icloud.com
+DOMAIN, p136-ckdatabasews.icloud.com
 DOMAIN-SUFFIX, icloud-content.com
 
 # Podcast
