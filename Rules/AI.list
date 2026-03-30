@@ -22,6 +22,9 @@ DOMAIN, ai.google.dev
 DOMAIN-SUFFIX, googleapis.com
 PROCESS-NAME, /Applications/Antigravity.app/
 
+# xAI
+DOMAIN-SUFFIX, x.ai
+
 # Bing
 DOMAIN, www.bing.com
 DOMAIN, copilot.microsoft.com
@@ -47,3 +50,10 @@ DOMAIN-SUFFIX, gitlab.com
 
 # Zed
 DOMAIN, cloud.zed.dev
+
+# Dia Browser
+DOMAIN-SUFFIX, diabrowser.com
+DOMAIN-SUFFIX, diabrowser.engineering
+
+# OpenRouter
+DOMAIN-SUFFIX, openrouter.ai
