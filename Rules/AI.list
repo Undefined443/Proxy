@@ -40,7 +40,8 @@ DOMAIN-SUFFIX, cursor.sh
 
 # Meta
 DOMAIN-SUFFIX, meta.ai
-DOMAIN, imagine.meta.com
+DOMAIN-SUFFIX, ai.meta.com
+DOMAIN-SUFFIX, imagine.meta.com
 
 # Coze (TikTok)
 DOMAIN-SUFFIX, coze.com
