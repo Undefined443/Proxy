@@ -1,5 +1,8 @@
 #!name=Google Redirect
 #!desc=Redirect google.cn to google.com
+#!author=Xiao Li
+#!repo=https://github.com/undefined443/proxy
+#!category=Utility
 
 [URL Rewrite]
 ^https?://(www.)?(g|google)\.cn https://www.google.com 307
