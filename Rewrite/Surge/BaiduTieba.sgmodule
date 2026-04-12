@@ -1,0 +1,18 @@
+#!name=Baidu Tieba
+#!desc=Baidu Tieba Check-in
+#!author=Xiao Li
+#!homepage=https://github.com/undefined443/proxy
+#!category=Task
+#!system=ios
+
+# Forked from https://github.com/blackmatrix7/ios_rule_script
+
+[Script]
+tieba_checkin = type=cron,cronexp=30 9 * * *,timeout=180,script-path=https://raw.githubusercontent.com/undefined443/Proxy/refs/heads/main/Script/BaiduTieba.js
+tieba_get_cookie1 = type=http-request,pattern=^https?:\/\/(c\.tieba\.baidu\.com|180\.97\.\d+\.\d+)\/c\/s\/login,script-path=https://raw.githubusercontent.com/undefined443/Proxy/refs/heads/main/Script/BaiduTieba.js
+tieba_get_cookie2 = type=http-request,pattern=^https?:\/\/c\.tieba\.baidu\.com\/c\/s\/channelIconConfig,script-path=https://raw.githubusercontent.com/undefined443/Proxy/refs/heads/main/Script/BaiduTieba.js
+tieba_get_cookie3 = type=http-request,pattern=^https?:\/\/tiebac\.baidu\.com\/c\/u\/follow\/getFoldedMessageUserInfo,script-path=https://raw.githubusercontent.com/undefined443/Proxy/refs/heads/main/Script/BaiduTieba.js
+tieba_get_cookie4 = type=http-request,pattern=^https?:\/\/tiebac\.baidu\.com\/c\/s\/getClientConfig,script-path=https://raw.githubusercontent.com/undefined443/Proxy/refs/heads/main/Script/BaiduTieba.js
+
+[MITM]
+hostname = %APPEND% c.tieba.baidu.com, tiebac.baidu.com
