@@ -1,5 +1,8 @@
-#!name=Apple Support 重定向
-#!desc=Apple Support 重定向 zh-xx 至 zh-cn
+#!name=Apple Support Redirect
+#!desc=Redirect support.apple.com/zh-xx to zh-cn
+#!author=Xiao Li
+#!repo=https://github.com/undefined443/proxy
+#!category=Utility
 
 [URL Rewrite]
 ^https?:\/\/support\.apple\.com\/zh-(hk|mo|sg|tw) https://support.apple.com/zh-cn 302

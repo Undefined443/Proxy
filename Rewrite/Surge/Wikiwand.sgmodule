@@ -1,5 +1,8 @@
-#!name=Wikiwand 重定向
-#!desc=将 Wikipedia 重定向到 Wikiwand
+#!name=Wikiwand Redirect
+#!desc=Redirect wikipedia.org to wikiwand.com
+#!author=Xiao Li
+#!repo=https://github.com/undefined443/proxy
+#!category=Utility
 
 [URL Rewrite]
 ^https?:\/\/en\.(m\.)?wikipedia\.org\/(wiki)? https://www.wikiwand.com/en 302

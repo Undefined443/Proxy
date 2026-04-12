@@ -1,5 +1,8 @@
-#!name=Wikipedia 重定向
-#!desc=Wikipedia 重定向 zh-xx 至 zh-cn
+#!name=Wikipedia Redirect
+#!desc=Redirect zh.wikipedia.org to zh-cn
+#!author=Xiao Li
+#!repo=https://github.com/undefined443/proxy
+#!category=Utility
 
 [URL Rewrite]
 ^https?:\/\/zh\.(m\.)?wikipedia\.org\/(zh-(hans|hant|hk|mo|my|sg|tw)|zh(?=/))\/ https://zh.$1wikipedia.org/zh-cn/ 302

@@ -1,5 +1,8 @@
-#!name=Python Docs 重定向
-#!desc=Python Docs 重定向至 zh-cn
+#!name=Python Docs Redirect
+#!desc=Redirect docs.python.org to zh-cn
+#!author=Xiao Li
+#!repo=https://github.com/undefined443/proxy
+#!category=Utility
 
 [URL Rewrite]
 ^https?:\/\/docs\.python\.org\/ https://docs.python.org/zh-cn/ 302
