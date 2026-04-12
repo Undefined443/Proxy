@@ -6,15 +6,15 @@
 #!system=ios
 
 [Script]
-# http-request ^https:\/\/(www|live)\.bilibili\.com\/?.? script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/bilibili/bilibili.cookie.js
+# http-request ^https:\/\/(www|live)\.bilibili\.com\/?.? script-path=https://raw.githubusercontent.com/undefined443/Proxy/refs/heads/main/Script/BiliBiliCookie.js
 
-bilibili = type=cron,cronexp=10 0 0 * * *,wake-system=1,timeout=100,script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/bilibili/bilibili.js
+bilibili = type=cron,cronexp=10 0 0 * * *,wake-system=1,timeout=100,script-path=https://raw.githubusercontent.com/undefined443/Proxy/refs/heads/main/Script/BiliBili.js
 
 # 如需银瓜子转硬币，添加以下内容 
-cron "10 0 0 * * *" script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/bilibili/bilibili.silver2coin.js
+cron "10 0 0 * * *" script-path=https://raw.githubusercontent.com/undefined443/Proxy/refs/heads/main/Script/BiliBiliSilver2Coin.js
 
 # 如需抽直播红包，添加以下内容
-bilibili = type=cron,cronexp=10 10 0 * * *,wake-system=1,timeout=100,script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/bilibili/redpocket.js
+bilibili = type=cron,cronexp=10 10 0 * * *,wake-system=1,timeout=100,script-path=https://raw.githubusercontent.com/undefined443/Proxy/refs/heads/main/Script/BiliBiliRedEnvelope.js
 
 [MITM]
 hostname = %APPEND% *.bilibili.com
