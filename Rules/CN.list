@@ -32,3 +32,5 @@ DOMAIN, vscode.download.prss.microsoft.com
 
 # Proxy
 DOMAIN-SUFFIX, api-flowercloud.com
+
+DOMAIN-SUFFIX, rockstargames.com
