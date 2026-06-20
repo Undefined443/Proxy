@@ -40,6 +40,7 @@ DOMAIN-SUFFIX, mapbox.com
 # Google
 DOMAIN, www.googleadservices.com
 DOMAIN, adsense.google.com
+DOMAIN, storage.googleapis.com
 DOMAIN-SUFFIX, gstatic.com
 
 # Apple
