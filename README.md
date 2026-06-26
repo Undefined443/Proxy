@@ -1,6 +1,6 @@
 # Proxy
 
-Personal proxy routing and rewrite rules for Surge, QuantumultX, Loon, and Stash.
+Proxy routing and rewrite rules for Surge, QuantumultX, Loon, and Stash.
 
 ## Rules
 
