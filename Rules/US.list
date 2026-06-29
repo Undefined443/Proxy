@@ -11,11 +11,15 @@ DOMAIN-SUFFIX, gov
 #DOMAIN-SUFFIX, tiktokcdn-us.com
 #DOMAIN-SUFFIX, ibytedtos.com
 
+# Apple Location Service
+DOMAIN, gspe1-ssl.ls.apple.com
+
 # Apple News
 DOMAIN, news-edge.apple.com
 DOMAIN, news-assets.apple.com
 DOMAIN, news-client.apple.com
 DOMAIN, news-events.apple.com
+DOMAIN, news-client-search.apple.com
 DOMAIN, news-sports-events.apple.com
 DOMAIN, news-todayconfig-edge.apple.com
 DOMAIN, newsletter-edge.apple.com
