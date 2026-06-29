@@ -9,7 +9,12 @@ DOMAIN-SUFFIX, gov
 #DOMAIN-SUFFIX, tiktokv.com
 #DOMAIN-SUFFIX, tiktokcdn.com
 #DOMAIN-SUFFIX, tiktokcdn-us.com
+#DOMAIN-SUFFIX, tik-tokapi.com
+#DOMAIN-SUFFIX, ttwstatic.com
 #DOMAIN-SUFFIX, ibytedtos.com
+#DOMAIN-SUFFIX, byteoversea.com
+#DOMAIN-SUFFIX, muscdn.com
+#DOMAIN-SUFFIX, musical.ly
 
 # Apple Location Service
 DOMAIN, gspe1-ssl.ls.apple.com
