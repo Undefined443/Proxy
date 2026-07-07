@@ -29,6 +29,7 @@ DOMAIN, challenges.cloudflare.com
 DOMAIN, mirror.ctan.org
 DOMAIN, cas-bridge.xethub.hf.co
 DOMAIN, vscode.download.prss.microsoft.com
+DOMAIN, developer.download.nvidia.com
 
 # Proxy
 DOMAIN-SUFFIX, api-flowercloud.com
