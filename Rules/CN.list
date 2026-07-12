@@ -30,6 +30,7 @@ DOMAIN, mirror.ctan.org
 DOMAIN, cas-bridge.xethub.hf.co
 DOMAIN, vscode.download.prss.microsoft.com
 DOMAIN, update.code.visualstudio.com
+DOMAIN, vscode-sync.trafficmanager.net
 DOMAIN, developer.download.nvidia.com
 
 # Proxy
