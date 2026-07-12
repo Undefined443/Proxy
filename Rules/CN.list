@@ -8,6 +8,9 @@ DOMAIN-SUFFIX, mail.me.com
 DOMAIN-SUFFIX, apple-cloudkit.com
 DOMAIN-SUFFIX, apple.com
 DOMAIN-SUFFIX, icloud.com
+DOMAIN-SUFFIX, mzstatic.com
+DOMAIN-SUFFIX, aaplimg.com
+DOMAIN-SUFFIX, apple-mapkit.com
 
 # Apple Music CN
 DOMAIN, xp.apple.com
