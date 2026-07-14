@@ -20,6 +20,7 @@ DOMAIN, apis.google.com
 DOMAIN, notebooklm.google.com
 DOMAIN, ai.google.dev
 DOMAIN, generativelanguage.googleapis.com
+DOMAIN-SUFFIX, clients6.google.com
 PROCESS-NAME, /Applications/Antigravity.app/
 
 # xAI
