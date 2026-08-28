@@ -69,3 +69,14 @@ Domain/IP routing rules located in `Rules/`.
 | File | Description |
 |------|-------------|
 | `Wikipedia.stoverride` | Wikipedia redirect |
+
+## Third-Party Surge Modules
+
+Notes on third-party Surge modules encountered outside this repo.
+
+### Not Recommended
+
+| Module | Source | Reason |
+|--------|--------|--------|
+| AllInOne | [AllInOne_Mock.sgmodule](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Surge/AllInOne/AllInOne_Mock.sgmodule) | Breaks Spotify connectivity |
+| AdvertisingLite | [AdvertisingLite.sgmodule](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Surge/AdvertisingLite/AdvertisingLite.sgmodule) | Breaks Spotify connectivity |
