@@ -3,6 +3,7 @@
 #!author=undefined443
 #!homepage=https://github.com/undefined443/Proxy
 #!icon=https://www.google.com/s2/favicons?domain=google.com&sz=128
+#!tag=Utility
 
 [URL Rewrite]
 ^https?:\/\/(www\.)?(g|google)\.cn(\/.*)? https://www.google.com$3 302
